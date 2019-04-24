@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "default"
+color_theme = "1950s"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -50,16 +50,21 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
-address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+email = "koutsomi@ceid.upatras.gr"
+phone = "+302610996997"
+address = "University of Patras<br> 
+School of Engineering<br> 
+Computer Engineering and Informatics Dpt.<br> 
+High Performance Information Systems Laboratory<br> 
+Building Β, 2nd Floor, Office <A href="">B206</A><br> 
+26500 Patra - Rio, Greece"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00"""
+office_hours = """Mon. 12-13:00<br>
+                  Wed. 16:00-18:00""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
