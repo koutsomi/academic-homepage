@@ -61,7 +61,7 @@ Building Β, 2nd Floor, Office <A href=``>B206</A><br>
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Mon. 12-13:00<br>
-                  Wed. 16:00-18:00""
+                  Wed. 16:00-18:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
