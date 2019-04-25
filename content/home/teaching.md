@@ -6,7 +6,7 @@ weight = 20
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 +++
 
 I am a **tenured** **Lab Lecturer** at the [Department of Computer
