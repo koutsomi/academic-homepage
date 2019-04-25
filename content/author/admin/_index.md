@@ -39,6 +39,7 @@ interests = [
 [[education.courses]]
  course = "Lab Lecturer, 2017-present"
  institution = "CEID, University of Patras"
+ year = "2017-present"
  
  [[education.courses]]
  course = "Adjunct Faculty, 2015-present"
