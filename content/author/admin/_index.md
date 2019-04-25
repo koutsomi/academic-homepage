@@ -37,25 +37,29 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
- course = "Lab Lecturer, 2017-present"
+ course = "Lab Lecturer"
  institution = "CEID, University of Patras"
  year = "2017-present"
  
  [[education.courses]]
- course = "Adjunct Faculty, 2015-present"
+ course = "Adjunct Faculty"
  institution = "Hellenic Open University"
+ year = "2015-present"
  
  [[education.courses]]
- course = "Visiting Postdoctoral Fellow, 2013-2017"
+ course = "Visiting Postdoctoral Fellow"
  institution = "CEID, University of Patras"
+ year = "2013-2017"
  
  [[education.courses]]
- course = "Adjunct Assistant Professor, 2008-2013"
+ course = "Adjunct Assistant Professor"
  institution = "CEID, University of Patras"
+ year = "2008 - 2013"
  
  [[education.courses]]
- course = "Adjunct Faculty, 2007-2014"
+ course = "Adjunct Faculty"
  institution = "Technological Educational Institution of Western Greece"
+ year = "2007-2014"
 
 
 # Social/Academic Networking
@@ -97,8 +101,7 @@ Engineering and Informatics](http://www.ceid.upatras.gr/) and a
 Laboratory (HPCLab)](../index.html) and the [Pattern Recognition
 Laboratory (PRLab)](http://prlab.ceid.upatras.gr/), [University of
 Patras](http://www.upatras.gr/).  I have received a diploma, an M.Sc. and a	
-fellowship-awarded Ph.D. from the same department, specializing in	
-knowledge management and discovery on the Web.
+fellowship-awarded Ph.D. from the same department, specializing in knowledge management and discovery on the Web.
 
 I have been teaching a number of [courses](courses/index.html) at the undergraduate
 and graduate programs of the [Dpt. of Computer Engineering and
