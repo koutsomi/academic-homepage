@@ -1,6 +1,12 @@
 +++
+widget = "blank"
+headless = true  # This file represents a page section.
+title = "Teaching"
+weight = 20
 
-
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
 +++
 
 I have been teaching a number of [courses](courses/index.html) at the undergraduate
