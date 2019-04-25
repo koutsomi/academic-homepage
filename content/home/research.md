@@ -2,7 +2,7 @@
 widget = "blank"
 headless = true  # This file represents a page section.
 title = "Research"
-weight = 20
+weight = 30
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
