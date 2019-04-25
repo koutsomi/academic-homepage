@@ -55,11 +55,7 @@ interests = [
  [[education.courses]]
  course = "Adjunct Faculty, 2007-2014"
  institution = "Technological Educational Institution of Western Greece"
- 
- [[education.courses]]
- course = "PhD: Knoweldge Management and Discovery on the Web"
- institution = "Onassis Fellow, CEID, University of Patras"
- year = 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
