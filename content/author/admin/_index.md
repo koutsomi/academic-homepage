@@ -37,19 +37,18 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
- course = "Lab Lecturer"
+ course = "Lab Lecturer, 2017-present"
  institution = "University of Patras"
- year = 2017
+ 
  
  [[education.courses]]
- course = "Adjunct Assistant Professor"
+ course = "Adjunct Assistant Professor, 2008-2013"
  institution = "University of Patras"
- year = 2008-2013
  
  [[education.courses]]
  course = "PhD in Knoweldge Management and Discovery on the Web"
  institution = "Onassis Fellow, University of Patras"
- year = 2012
+ year = 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
