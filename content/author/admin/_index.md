@@ -13,9 +13,8 @@ role = ""
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = """Computer Engineering & Informatics Dpt. <br>
-University of Patras <br>
-26 500 Patras, Greece""", url = "https://www.ceid.upatras.gr" } ]
+organizations = [ { name = """Computer Engineering & Informatics Dpt,
+University of Patras""", url = "https://www.ceid.upatras.gr" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -25,10 +24,11 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-#  "Big and Linked Data",
-#  "Digital Libraries",
-#  "Knowledge Discovery and Automated Reasoning",
-#  "Metadata Integration and the Semantic Web"
+"Big and Linked Data",
+"Semantic Analytics",
+"Digital Libraries",
+"Knowledge Discovery and Automated Reasoning",
+"Metadata Integration and the Semantic Web"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -36,10 +36,20 @@ interests = [
 # user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
-#[[education.courses]]
- # course = "PhD in Artificial Intelligence"
- # institution = "Stanford University"
- # year = 2012
+[[education.courses]]
+ course = "Lab Lecturer"
+ institution = "University of Patras"
+ year = 2017
+ 
+ [[education.courses]]
+ course = "Adjunct Assistant Professor"
+ institution = "University of Patras"
+ year = 2008-2013
+ 
+ [[education.courses]]
+ course = "PhD in Knoweldge Management and Discovery on the Web"
+ institution = "Onassis Fellow, University of Patras"
+ year = 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
