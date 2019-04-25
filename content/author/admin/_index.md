@@ -38,16 +38,27 @@ interests = [
 # List qualifications (such as academic degrees)
 [[education.courses]]
  course = "Lab Lecturer, 2017-present"
- institution = "University of Patras"
+ institution = "CEID, University of Patras"
  
+ [[education.courses]]
+ course = "Adjunct Faculty, 2015-present"
+ institution = "Hellenic Open University"
+ 
+ [[education.courses]]
+ course = "Visiting Postdoctoral Fellow, 2013-2017"
+ institution = "CEID, University of Patras"
  
  [[education.courses]]
  course = "Adjunct Assistant Professor, 2008-2013"
- institution = "University of Patras"
+ institution = "CEID, University of Patras"
  
  [[education.courses]]
- course = "PhD in Knoweldge Management and Discovery on the Web"
- institution = "Onassis Fellow, University of Patras"
+ course = "Adjunct Faculty, 2007-2014"
+ institution = "Technological Educational Institution of Western Greece"
+ 
+ [[education.courses]]
+ course = "PhD: Knoweldge Management and Discovery on the Web"
+ institution = "Onassis Fellow, CEID, University of Patras"
  year = 2008
 
 # Social/Academic Networking
