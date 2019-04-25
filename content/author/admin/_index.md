@@ -99,16 +99,8 @@ Engineering and Informatics](http://www.ceid.upatras.gr/) and a
 **research associate** at the [High Performance Information Systems
 Laboratory (HPCLab)](../index.html) and the [Pattern Recognition
 Laboratory (PRLab)](http://prlab.ceid.upatras.gr/), [University of
-Patras](http://www.upatras.gr/). I had formerly been an **Adjunct
-Assistant Professor** (2008-2013) and a **visiting postdoctoral fellow**
-(2013-2017). I have received a diploma, an M.Sc. and a
-fellowship-awarded Ph.D. from the same department, specializing in
-knowledge management and discovery on the Web.
-
-I am also **adjunct faculty** at the [Hellenic Open
-University](https://www.eap.gr/en/) (2015-onwards) and the
-[Technological Educational Institution of Western
-Greece](http://www.teiwest.gr/index.php/en/) (2007-2014)*.* I have been
+Patras](http://www.upatras.gr/). 
+I have been
 teaching a number of [courses](courses/index.html) at the undergraduate
 and graduate programs of the [Dpt. of Computer Engineering and
 Informatics](http://www.ceid.upatras.gr/), University of Patras, [Dpt.
