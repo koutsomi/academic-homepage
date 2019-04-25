@@ -8,6 +8,7 @@ weight = 20
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+
 I am a **tenured** **Lab Lecturer** at the [Department of Computer
 Engineering and Informatics](http://www.ceid.upatras.gr/) and a
 **research associate** at the [High Performance Information Systems
