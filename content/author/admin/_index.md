@@ -13,9 +13,9 @@ role = ""
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = """Computer Engineering & Informatics Dpt.<br>
+organizations = [ { name = "Computer Engineering & Informatics Dpt.<br>
 University of Patras<br>
-26 500 Patras, Greece""", url = "" } ]
+26 500 Patras, Greece", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -25,31 +25,21 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Big and Linked Data",
-  "Digital Libraries",
-  "Knowledge Discovery and Automated Reasoning",
-  "Metadata Integration and the Semantic Web"
+#  "Big and Linked Data",
+#  "Digital Libraries",
+#  "Knowledge Discovery and Automated Reasoning",
+#  "Metadata Integration and the Semantic Web"
 ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
+# user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+ # course = "PhD in Artificial Intelligence"
+ # institution = "Stanford University"
+ # year = 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -69,7 +59,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.gr/citations?user=m4iVA70AAAAJ"
 
 #[[social]]
 # icon = "github"
@@ -114,7 +104,7 @@ program](https://www.ceid.upatras.gr/en/programma-metaptyhiakon-spoydon-me-titlo
 and the [Informatics for Life Sciences Masters
 program](http://www.pez.upatras.gr/), joint with the Departments of
 Biology, Medicine, Pharmacy and Physics. I have supervised several
-student dissertations and masters theses at the departments above. I am
-currently co-supervising 2 Ph.D. theses on semantic interoperability and
+student dissertations and masters theses at the departments above. I have recently finished
+co-supervising 2 Ph.D. theses on semantic interoperability and
 the evolution of the Web.
 
