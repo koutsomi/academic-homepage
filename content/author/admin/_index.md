@@ -99,9 +99,11 @@ Engineering and Informatics](http://www.ceid.upatras.gr/) and a
 **research associate** at the [High Performance Information Systems
 Laboratory (HPCLab)](../index.html) and the [Pattern Recognition
 Laboratory (PRLab)](http://prlab.ceid.upatras.gr/), [University of
-Patras](http://www.upatras.gr/). 
-I have been
-teaching a number of [courses](courses/index.html) at the undergraduate
+Patras](http://www.upatras.gr/).  I have received a diploma, an M.Sc. and a	
+fellowship-awarded Ph.D. from the same department, specializing in	
+knowledge management and discovery on the Web.
+
+I have been teaching a number of [courses](courses/index.html) at the undergraduate
 and graduate programs of the [Dpt. of Computer Engineering and
 Informatics](http://www.ceid.upatras.gr/), University of Patras, [Dpt.
 of Computer Science in Administration and
