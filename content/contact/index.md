@@ -1,6 +1,6 @@
 +++
-title = "Landing Page"  # Add a page title.
-summary = "Hello!"  # Add a page description.
-date = 2019-01-01T00:00:00  # Add today's date.
+title = "Contact"  # Add a page title.
 type = "widget_page"  # Page type is a Widget Page
+[header]
+image = "featured.jpg"
 +++
