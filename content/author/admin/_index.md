@@ -100,25 +100,5 @@ Engineering and Informatics](http://www.ceid.upatras.gr/) and a
 **research associate** at the [High Performance Information Systems
 Laboratory (HPCLab)](../index.html) and the [Pattern Recognition
 Laboratory (PRLab)](http://prlab.ceid.upatras.gr/), [University of
-Patras](http://www.upatras.gr/).  I have received a diploma, an M.Sc. and a	
+Patras](http://www.upatras.gr/).  For 20 years, I have participated and led a variety of [R&D projects](projects/index.html) with European, national and international funding, focusing on the application and promotion of ICT for the cultural and educational sector. I have received a diploma, an M.Sc. and a	
 fellowship-awarded Ph.D. from the same department, specializing in knowledge management and discovery on the Web.
-
-I have been teaching a number of [courses](courses/index.html) at the undergraduate
-and graduate programs of the [Dpt. of Computer Engineering and
-Informatics](http://www.ceid.upatras.gr/), University of Patras, [Dpt.
-of Computer Science in Administration and
-Economy](http://www.amaliada.teipat.gr/), [Dpt. of Business Planning and
-Information Systems](http://bpis.teipat.gr/), [Dpt. of Bussiness
-Administration](http://ba.teiwest.gr/), ATEI of Western Greece and
-[Business
-Administration](http://www.eap.gr/en/courses/114-business-administration/1308-e8b437893d7dfd1b22186d733d9ccaed),
-Hellenic Open University. I have also taught postgraduate courses at the
-[Computer Science and Engineering
-program](https://www.ceid.upatras.gr/en/programma-metaptyhiakon-spoydon-me-titlo-epistimi-kai-tehnologia-ypologiston)
-and the [Informatics for Life Sciences Masters
-program](http://www.pez.upatras.gr/), joint with the Departments of
-Biology, Medicine, Pharmacy and Physics. I have supervised several
-student dissertations and masters theses at the departments above. I have recently finished
-co-supervising 2 Ph.D. theses on semantic interoperability and
-the evolution of the Web.
-
