@@ -36,7 +36,7 @@ interests = [
 # user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
-[[education.courses]]
+#[[education.courses]]
  # course = "PhD in Artificial Intelligence"
  # institution = "Stanford University"
  # year = 2012
