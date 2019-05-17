@@ -7,7 +7,7 @@ title = ""
 # Order that this section will appear in.
 weight = 3
 
-[background]
+[design.background]
   # Background color.
   color = "navy"
   
