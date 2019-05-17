@@ -1,3 +1,13 @@
++++
+widget = "blank"
+headless = true  # This file represents a page section.
+title = "Journals"
+weight = 30
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
++++
 -   Dimitrios A. Koutsomitropoulos, Spiridon D. Likothanassis and Panos Kalnis. Semantics in the Deep: Semantic Analytics for Big Data. *Data* 4 (2), 63. DOI: 10.3390/data4020063. MDPI, 2019. ([link](https://www.mdpi.com/journal/data/special_issues/Semantic_Analytics)) ([pdf](https://www.ceid.upatras.gr/webpages/koutsomi/wp-content/uploads/sites/6/2019/5/data2019.pdf))
 
 -   Dimitrios A. Koutsomitropoulos and Georgia D. Solomou. A Learning Object Ontology Repository to Support Annotation and Discovery of Educational Resources using Semantic Thesauri. *IFLA Journal* 44 (1): 4-24.DOI: 10.1177/0340035217737559.SAGE, 2018. ([link](http://journals.sagepub.com/doi/full/10.1177/0340035217737559)) ([pdf](https://www.ceid.upatras.gr/webpages/koutsomi/wp-content/uploads/sites/6/2018/04/ifla2018.pdf))
