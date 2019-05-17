@@ -21,7 +21,14 @@
 
 [[main]]
   name = "Publications"
+  identifier = "Publications"
   url = "#publications"
+  weight = 20
+  
+ [[main]]
+  name = "Journals"
+  parent = "Publications"
+  url = "publications/#journals"
   weight = 20
   
   
