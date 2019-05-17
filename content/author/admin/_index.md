@@ -27,8 +27,10 @@ interests = [
 "Big and Linked Data",
 "Semantic Analytics",
 "Digital Libraries",
-"Knowledge Discovery and Automated Reasoning",
-"Metadata Integration and the Semantic Web"
+"Knowledge Discovery",
+Automated Reasoning",
+"Metadata Integration",
+Semantic Web"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -70,7 +72,7 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "contact"  # For a direct email link, use "mailto:test@example.org".
 
 #[[social]]
 # icon = "twitter"
