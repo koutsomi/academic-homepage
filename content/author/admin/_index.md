@@ -83,7 +83,12 @@ interests = [
   icon = "google-scholar"
   icon_pack = "ai"
   link = "https://scholar.google.gr/citations?user=m4iVA70AAAAJ"
-
+  
+ [[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Dimitrios_Koutsomitropoulos"
+ 
 #[[social]]
 # icon = "github"
 #  icon_pack = "fab"
