@@ -22,4 +22,4 @@ weight = 3
   label = ""
 +++
 
-<div style="width: 300px; height:200px; align:right"></div>
+<div style="width: 100; height:50px; align:right"></div>
