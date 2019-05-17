@@ -28,9 +28,9 @@ interests = [
 "Semantic Analytics",
 "Digital Libraries",
 "Knowledge Discovery",
-Automated Reasoning",
+"Automated Reasoning",
 "Metadata Integration",
-Semantic Web"
+"Semantic Web"
 ]
 
 # Organizational groups that you belong to (for People widget)
