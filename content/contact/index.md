@@ -7,13 +7,6 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 
-# Automatically link email and phone?
-autolink = true
 
-# Email form provider
-#   0: Disable email form
-#   1: Netlify (requires that the site is hosted by Netlify)
-#   2: formspree.io
-email_form = 0
 +++
 {{< figure src="image.jpg" title="A caption" >}}
