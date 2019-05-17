@@ -1,25 +1,24 @@
 +++
-# Hero widget.
-widget = "hero"
+# Blank widget.
+widget = "blank"
 active = true
 title = ""
 
 # Order that this section will appear in.
 weight = 3
 
-# Overlay a color or image (optional).
-#   Deactivate an option by commenting out the line, prefixing it with `#`.
-[header]
-  overlay_color = ""  # An HTML color value.
-  overlay_img = "banner.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
+[background]
+  # Background color.
+  color = "navy"
+  
+  # Background gradient.
+  gradient_start = "#4bb4e3"
+  gradient_end = "#2b94c3"
+  
+  # Background image.
+  image = "banner.jpg"  # Name of image in `static/img/`.
+  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
-# Call to action button (optional).
-#   Activate the button by specifying a URL and button label below.
-#   Deactivate by commenting out parameters, prefixing lines with `#`.
-[cta]
-  url = ""
-  label = ""
-+++
-
-<div style="width: 100; height:50px; align:right"></div>
+  # Text color (true=light or false=dark).
+  text_color_light = true
+  +++
