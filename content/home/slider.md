@@ -38,6 +38,7 @@ height = "300px"
   title = "Left"
   content = "I am left aligned :smile:"
   align = "left"
+  image = "content.jpg"
 
  
 
