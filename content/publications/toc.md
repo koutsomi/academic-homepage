@@ -38,7 +38,7 @@ hero_media = ""
   icon = 'twitter'
   name = 'Follow'
   url = 'https://twitter.com/Twitter'
-[[links]]]
+[[links]]
   name = Originally published on Medium
   url = 'https://medium.com'
 
