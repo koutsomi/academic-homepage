@@ -39,7 +39,7 @@ hero_media = ""
   name = 'Follow'
   url = 'https://twitter.com/Twitter'
 [[links]]
-  name = Originally published on Medium
+  name = 'Originally published on Medium'
   url = 'https://medium.com'
 
 +++
