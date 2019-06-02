@@ -36,22 +36,22 @@ hero_media = ""
 [cta]
   url = "/publications/#books"
   label = "Books"
-[cta]
+[cta_alt]
   url = "/publications/#theses"
   label = "Theses"
-[cta]
+[cta_alt]
   url = "/publications/#chapters"
   label = "Book Chapters"
-[cta]
+[cta_alt]
   url = "/publications/#journals"
   label = "Scientific Journals"
-[cta]
+[cta_alt]
   url = "/publications/#conferences"
   label = "Refereed Conference Papers"
-[cta]
+[cta_alt]
   url = "/publications/#talks"
   label = "Presentations and Talks"
-[cta]
+[cta_alt]
   url = "/publications/#reports"
   label = "Technical Reports"
 
