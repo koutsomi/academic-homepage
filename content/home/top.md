@@ -15,7 +15,7 @@ weight = 1  # Order that this section will appear.
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 
-[background]
+[design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
@@ -47,4 +47,3 @@ weight = 1  # Order that this section will appear.
  # CSS class.
  css_class = ""
 +++
-# <br><br><br><br><br><br><br><br>
