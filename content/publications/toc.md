@@ -33,26 +33,11 @@ hero_media = ""
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
+[[cta]]
   url = "/publications/#books"
   label = "Books"
-[cta_alt]
+[[cta]]
   url = "/publications/#theses"
   label = "Theses"
-[cta_alt]
-  url = "/publications/#chapters"
-  label = "Book Chapters"
-[cta_alt]
-  url = "/publications/#journals"
-  label = "Scientific Journals"
-[cta_alt]
-  url = "/publications/#conferences"
-  label = "Refereed Conference Papers"
-[cta_alt]
-  url = "/publications/#talks"
-  label = "Presentations and Talks"
-[cta_alt]
-  url = "/publications/#reports"
-  label = "Technical Reports"
 
 +++
