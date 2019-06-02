@@ -33,11 +33,14 @@ hero_media = ""
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[[cta]]
-  url = "/publications/#books"
-  label = "Books"
-[[cta]]
-  url = "/publications/#theses"
-  label = "Theses"
+links:
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/Twitter'
+  - icon_pack: fab
+    icon: medium
+    name: Originally published on Medium
+    url: 'https://medium.com'
 
 +++
