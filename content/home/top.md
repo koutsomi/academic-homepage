@@ -31,14 +31,14 @@ weight = 1  # Order that this section will appear.
   # Background image.
   image = "banner.jpg"  # Name of image in `static/img/`.
   image_darken = 0.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  focal_point = "Center"
+  # focal_point = "Center"
 
   # Text color (true=light or false=dark).
   text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20", "0", "20", "0"]
+  padding = ["10", "0", "10", "0"]
 
 [advanced]
  # Custom CSS. 
