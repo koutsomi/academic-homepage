@@ -20,8 +20,8 @@ hero_media = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  # gradient_start = "#4bb4e3"
+  # gradient_end = "#2b94c3"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
@@ -34,14 +34,25 @@ hero_media = ""
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
+  url = "/publications/#books"
+  label = "Books"
+[cta]
+  url = "/publications/#theses"
+  label = "Theses"
+[cta]
+  url = "/publications/#chapters"
+  label = "Book Chapters"
+[cta]
   url = "/publications/#journals"
-  label = "Journals"
-    
-[cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+  label = "Scientific Journals"
+[cta]
+  url = "/publications/#conferences"
+  label = "Refereed Conference Papers"
+[cta]
+  url = "/publications/#talks"
+  label = "Presentations and Talks"
+[cta]
+  url = "/publications/#reports"
+  label = "Technical Reports"
 
-# Note. An optional note to show underneath the links.
-# [cta_note]
-#  label = '<a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release <!-- V --></a>'
 +++
