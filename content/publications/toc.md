@@ -10,7 +10,7 @@ weight = 10  # Order that this section will appear.
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = ""
 
-[design.background]
+# [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
