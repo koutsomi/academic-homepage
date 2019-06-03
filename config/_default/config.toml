@@ -52,6 +52,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 	angledQuotes = false
 	latexDashes = true
   extensions = ["backslashLineBreak"]
+  fractions = false
 
 [imaging]
   resampleFilter = "lanczos"
