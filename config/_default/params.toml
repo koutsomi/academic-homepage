@@ -124,10 +124,10 @@ reading_time = true
 comment_count = true
 
 # Display next/previous section pager? (true/false)
-section_pager = false
+section_pager = true
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = true
+sharing = false
 
 # Configuration of publication pages.
 [publications]
