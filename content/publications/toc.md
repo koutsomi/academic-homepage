@@ -1,31 +1,53 @@
----
-title: ProjectX
-summary: I have participated and lead a variety of R&D projects with European and national funding including BookSpace, BookTrade, Digitization of the Hellenic Cultural Content, the MINERVA project series, ATHENA, and the University of Patras Operational Programme for Education and Initial Vocational Training (ΕΠΕΑΕΚ II) as well as its extension with innovative actions for semantic annotations of learning material, intelligent search and semantic interoperability.
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
++++
 
-# Optional external URL for project (replaces project detail page).
-external_link: ""
+widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 10  # Order that this section will appear.
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+# title = ""
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+# Hero image (optional). Enter filename of an image in the `static/img/` folder.
+hero_media = ""
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
----
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  # gradient_start = "#4bb4e3"
+  # gradient_end = "#2b94c3"
+  
+  # Background image.
+  # image = ""  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+
+
++++
+{{% toc %}}
+## [ books](/publications/#books)
+  
+  [cta_alt]
+  url = "/publications/#theses"
+  label = "Theses"
+[cta_alt]
+  url = "/publications/#chapters"
+  label = "Book Chapters"
+[**journals**](/publications/#journals)
+
+  label = "Scientific Journals"
+[cta_alt]
+  url = "/publications/#conferences"
+  label = "Refereed Conference Papers"
+[cta_alt]
+  url = "/publications/#talks"
+  label = "Presentations and Talks"
+[cta_alt]
+  url = "/publications/#reports"
+  label = "Technical Reports"
