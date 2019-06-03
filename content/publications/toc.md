@@ -28,11 +28,6 @@ title = "Publications"
   # image = ""  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0", "0", "0", "0"]
-
-
 +++
 
 #### [Books](/publications/#books) 
