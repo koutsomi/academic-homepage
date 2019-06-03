@@ -1,14 +1,15 @@
 +++
 
-widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-# title = ""
+title = "Publications"
 
-# Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = ""
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -31,8 +32,10 @@ hero_media = ""
 
 +++
 
-## [Books](/publications/#books) [Theses] (/publications/#theses) [Book Chapters](/publications/#chapters) [**Scientific Journals**](/publications/#journals) [Refereed Conference Papers](/publications/#conferences) [Presentations and Talks](/publications/#talks) [Technical Reports](/publications/#reports)
-
-{{% button href="https://getgrav.org/" %}}Get Grav{{% /button %}}
-{{% button href="https://getgrav.org/" icon="fas fa-download" %}}Get Grav with icon{{% /button %}}
-{{% button href="https://getgrav.org/" icon="fas fa-download" icon-position="right" %}}Get Grav with icon right{{% /button %}}
+## [Books](/publications/#books) 
+## [Theses] (/publications/#theses) 
+## [Book Chapters](/publications/#chapters) 
+## [**Scientific Journals**](/publications/#journals) 
+## [Refereed Conference Papers](/publications/#conferences) 
+## [Presentations and Talks](/publications/#talks) 
+## [Technical Reports](/publications/#reports)
