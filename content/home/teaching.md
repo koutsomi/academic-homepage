@@ -10,7 +10,7 @@ weight = 20
   
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  # padding = ["20px", "0", "0px", "0"]
+   padding = ["20px", "0", "0px", "0"]
 +++
 
 I have been teaching a number of [courses](courses/index.html) at the undergraduate
