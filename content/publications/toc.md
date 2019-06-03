@@ -30,6 +30,9 @@ hero_media = ""
 
 
 +++
-{{% toc %}}
-{{.TableOfContents}}
+
 ## [Books](/publications/#books) [Theses] (/publications/#theses) [Book Chapters](/publications/#chapters) [**Scientific Journals**](/publications/#journals) [Refereed Conference Papers](/publications/#conferences) [Presentations and Talks](/publications/#talks) [Technical Reports](/publications/#reports)
+
+{{% button href="https://getgrav.org/" %}}Get Grav{{% /button %}}
+{{% button href="https://getgrav.org/" icon="fas fa-download" %}}Get Grav with icon{{% /button %}}
+{{% button href="https://getgrav.org/" icon="fas fa-download" icon-position="right" %}}Get Grav with icon right{{% /button %}}
