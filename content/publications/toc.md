@@ -31,9 +31,8 @@ hero_media = ""
 
 +++
 {{% toc %}}
-## [Books](/publications/#books) ## [Theses] (/publications/#theses) ## [Book Chapters](/publications/#chapters)
-
-[**journals**](/publications/#journals)
+{{.TableOfContents}}
+## [Books](/publications/#books) [Theses] (/publications/#theses) [Book Chapters](/publications/#chapters) [**journals**](/publications/#journals)
 
   label = "Scientific Journals"
 [cta_alt]
