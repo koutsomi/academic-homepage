@@ -7,6 +7,10 @@ weight = 20
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
+  
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  # padding = ["20px", "0", "0", "0"]
 +++
 
 I have been teaching a number of [courses](courses/index.html) at the undergraduate
