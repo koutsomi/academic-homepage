@@ -32,10 +32,10 @@ title = "Publications"
 
 +++
 
-## [Books](/publications/#books) 
-## [Theses] (/publications/#theses) 
-## [Book Chapters](/publications/#chapters) 
-## [**Scientific Journals**](/publications/#journals) 
-## [Refereed Conference Papers](/publications/#conferences) 
-## [Presentations and Talks](/publications/#talks) 
-## [Technical Reports](/publications/#reports)
+#### [Books](/publications/#books) 
+#### [Theses] (/publications/#theses) 
+#### [Book Chapters](/publications/#chapters) 
+#### [**Scientific Journals**](/publications/#journals) 
+### [Refereed Conference Papers](/publications/#conferences) 
+### [Presentations and Talks](/publications/#talks) 
+##### [Technical Reports](/publications/#reports)
