@@ -1,7 +1,7 @@
 +++
 widget = "blank"
 headless = true  # This file represents a page section.
-title = "theses"
+title = "Theses"
 weight = 20
 
 [design]
