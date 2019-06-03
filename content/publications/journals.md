@@ -7,6 +7,11 @@ weight = 40
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
+  
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["0", "0", "0", "0"]
+  
 +++
 - **Dimitrios A. Koutsomitropoulos**, Spiridon D. Likothanassis and Panos Kalnis. Semantics in the Deep: Semantic Analytics for Big Data. *Data* 4 (2), 63. DOI: 10.3390/data4020063. MDPI, 2019. ([link](https://www.mdpi.com/journal/data/special_issues/Semantic_Analytics)) ([pdf](https://www.ceid.upatras.gr/webpages/koutsomi/wp-content/uploads/sites/6/2019/5/data2019.pdf))
 
