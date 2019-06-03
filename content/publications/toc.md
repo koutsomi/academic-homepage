@@ -31,14 +31,8 @@ hero_media = ""
 
 +++
 {{% toc %}}
-## [ books](/publications/#books)
-  
-  [cta_alt]
-  url = "/publications/#theses"
-  label = "Theses"
-[cta_alt]
-  url = "/publications/#chapters"
-  label = "Book Chapters"
+## [Books](/publications/#books) ## [Theses] (/publications/#theses) ## [Book Chapters](/publications/#chapters)
+
 [**journals**](/publications/#journals)
 
   label = "Scientific Journals"
