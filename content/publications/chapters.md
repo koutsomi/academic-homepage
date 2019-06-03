@@ -1,7 +1,7 @@
 +++
 widget = "blank"
 headless = true  # This file represents a page section.
-title = "chapters"
+title = "Book Chapters"
 weight = 30
 
 [design]
