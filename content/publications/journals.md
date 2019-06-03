@@ -1,7 +1,7 @@
 +++
 widget = "blank"
 headless = true  # This file represents a page section.
-title = "Journals"
+title = "Scientific Journals"
 weight = 40
 
 [design]
