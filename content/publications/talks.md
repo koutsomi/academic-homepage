@@ -9,7 +9,7 @@ weight = 60
   columns = "2"
 +++
 
-- **Dimitrios A. Koutsomitropoulos**. Semantics in the Deep - Semantic Analytics for Big Data: Introduction and Overview. *14th International Conference on Artificial Intelligence Applications and Innovations (AIAI 2018) – Int. Workshop on Semantic Analytics for Big Data (SEDSEAL)*, 2018. ([pdf](/pdf/sedseal2018-intro.pdf))
+- **Dimitrios A. Koutsomitropoulos**. Semantics in the Deep - Semantic Analytics for Big Data: Introduction and Overview. *14th International Conference on Artificial Intelligence Applications and Innovations (AIAI 2018) – Int. Workshop on Semantic Analytics for Big Data (SEDSEAL)*, 2018. [(pdf)](/pdf/sedseal2018-intro.pdf)
 
 - **Dimitrios A. Koutsomitropoulos**. Software Characteristics for Product Concurrent Engineering. *PROCEN Network Workshop*, 2010. (in Greek) [(pdf)](http://old.hpclab.ceid.upatras.gr/viografika/kotsomit/pubs/procen10.pdf)
 
