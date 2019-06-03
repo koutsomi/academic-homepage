@@ -32,15 +32,4 @@ hero_media = ""
 +++
 {{% toc %}}
 {{.TableOfContents}}
-## [Books](/publications/#books) [Theses] (/publications/#theses) [Book Chapters](/publications/#chapters) [**journals**](/publications/#journals)
-
-  label = "Scientific Journals"
-[cta_alt]
-  url = "/publications/#conferences"
-  label = "Refereed Conference Papers"
-[cta_alt]
-  url = "/publications/#talks"
-  label = "Presentations and Talks"
-[cta_alt]
-  url = "/publications/#reports"
-  label = "Technical Reports"
+## [Books](/publications/#books) [Theses] (/publications/#theses) [Book Chapters](/publications/#chapters) [**Scientific Journals**](/publications/#journals) [Refereed Conference Papers](/publications/#conferences) [Presentations and Talks](/publications/#talks) [Technical Reports](/publications/#reports)
