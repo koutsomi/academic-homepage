@@ -3,7 +3,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
 title = "Publications"
 
@@ -35,7 +35,7 @@ title = "Publications"
 #### [Books](/publications/#books) 
 #### [Theses] (/publications/#theses) 
 #### [Book Chapters](/publications/#chapters) 
-#### [**Scientific Journals**](/publications/#journals) 
-### [Refereed Conference Papers](/publications/#conferences) 
-### [Presentations and Talks](/publications/#talks) 
-##### [Technical Reports](/publications/#reports)
+#### [Scientific Journals](/publications/#journals) 
+#### [Refereed Conference Papers](/publications/#conferences) 
+#### [Presentations and Talks](/publications/#talks) 
+#### [Technical Reports](/publications/#reports)
