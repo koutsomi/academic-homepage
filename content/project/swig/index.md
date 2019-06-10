@@ -5,11 +5,10 @@
 title = "SWIGroup"
 date = ""
 # Project summary to display on homepage.
-summary = "I am coordinating the Semantic Web and Interoperability Group ([SWIGroup](http://swig.hpclab.ceid.upatras.gr/)), where I am working on the development of software and models related to Semantic Web technologies  and standards. [See more] (/project/swig)"
+summary = "I am coordinating the Semantic Web and Interoperability Group ([SWIGroup](http://swig.hpclab.ceid.upatras.gr/)), where I am working on the development of software and models related to Semantic Web technologies and standards. [See more] (/project/swig)"
 
 #Optional image to display on homepage.
-image_preview = "swig.gif"
-#preview_only = true
+#image_preview = "swig.gif"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -24,15 +23,15 @@ highlight = false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
 # Caption (optional)
-caption = "SWIGroup logo"
+# caption = "SWIGroup logo"
 # Focal point (optional)
 # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 focal_point = ""
-preview_only = true
+#preview_only = true
 
-[header]
-image = "swig.gif"
-focal_point = ""
+# [header]
+# image = "swig.gif"
+# focal_point = ""
 
 
 +++
