@@ -22,7 +22,7 @@ highlight = false
 [header]
 #image = "banner.jpg"
 #caption = "kkk"
-#focal_point = ""
+focal_point = ""
 
 +++
 
