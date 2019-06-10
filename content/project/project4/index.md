@@ -22,6 +22,6 @@ highlight = false
 [header]
 image = "banner.jpg"
 caption = "kkk"
-focus = smart
+focal_point = "Smart"
 
 +++
