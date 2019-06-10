@@ -9,6 +9,7 @@ summary = "I am coordinating the Semantic Web and Interoperability Group ([SWIGr
 
 #Optional image to display on homepage.
 image_preview = "swig.png"
+preview_only = true
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
