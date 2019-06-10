@@ -4,7 +4,7 @@
 tags = ["big data", "ontologies", "semantic analytics"]
 title = "SWIGroup"
 # Project summary to display on homepage.
-summary = "I am coordinating the Semantic Web and Interoperability Group ([SWIGroup](http://swigroup.hpclab.ceid.upatras.gr/)), where I am working on the development of software and models related to Semantic Web technologies  and standards, including: 
+summary = "I am coordinating the Semantic Web and Interoperability Group ([SWIGroup](http://swigroup.hpclab.ceid.upatras.gr/)), where I am working on the development of software and models related to Semantic Web technologies  and standards, including:"
 
 #Optional image to display on homepage.
 image_preview = ""
