@@ -20,7 +20,7 @@ highlight = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "featured.jpg"
+image = "banner.jpg"
 caption = ""
 
 +++
