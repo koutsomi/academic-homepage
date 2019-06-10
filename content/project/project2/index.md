@@ -20,4 +20,6 @@ math = false
 highlight = false
 
 # Optional featured image (relative to `static/img/` folder).
+[image]
+focal_point = Smart
 +++
