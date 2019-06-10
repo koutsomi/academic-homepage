@@ -1,7 +1,7 @@
 +++
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-#tags = ["big data", "ontologies", "semantic analytics"]
+tags = ["Big Data", "Ontologies", "Semantic Analytics"]
 title = "SWIGroup"
 date = ""
 # Project summary to display on homepage.
