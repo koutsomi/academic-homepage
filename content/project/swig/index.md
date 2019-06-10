@@ -9,7 +9,7 @@ summary = "I am coordinating the Semantic Web and Interoperability Group ([SWIGr
 
 #Optional image to display on homepage.
 image_preview = "swig.png"
-preview_only = true
+#preview_only = true
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -20,11 +20,15 @@ math = false
 # Does the project detail page use source code highlighting?
 highlight = false
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "swig.png"
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+# Caption (optional)
 caption = "SWIGroup logo"
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 focal_point = ""
+
 
 +++
 
