@@ -8,7 +8,7 @@ date = ""
 summary = "I am coordinating the Semantic Web and Interoperability Group ([SWIGroup](http://swig.hpclab.ceid.upatras.gr/)), where I am working on the development of software and models related to Semantic Web technologies  and standards. [See more] (/project/swig)"
 
 #Optional image to display on homepage.
-image_preview = "banner.jpg"
+#image_preview = "banner.jpg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
