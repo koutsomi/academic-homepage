@@ -124,7 +124,7 @@ reading_time = true
 comment_count = true
 
 # Display next/previous section pager? (true/false)
-section_pager = true
+section_pager = false
 
 # Enable in-built social sharing buttons? (true/false)
 sharing = false
