@@ -21,7 +21,7 @@ highlight = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 #image = "banner.jpg"
-#caption = "kkk"
+#caption = "SWIGroup logo"
 focal_point = ""
 
 +++
