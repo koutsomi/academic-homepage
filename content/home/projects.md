@@ -26,12 +26,20 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "Deep Learning"
-     tag = "Deep Learning"
+     name = "Semantic Analytics"
+     tag = "Semantic Analytics"
+   
+   [[content.filter_button]]
+     name = "Big Data"
+     tag = "Big Data"
+     
+   [[content.filter_button]]
+     name = "Ontologies"
+     tag = "Ontologies"
   
    [[content.filter_button]]
-     name = "Other"
-     tag = "Demo"
+     name = "Digitization"
+     tag = "Digitization"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
