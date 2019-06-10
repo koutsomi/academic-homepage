@@ -21,7 +21,7 @@ highlight = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "swig.png"
+image = "banner.jpg"
 caption = "SWIGroup logo"
 focal_point = ""
 
