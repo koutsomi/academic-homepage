@@ -1,26 +1,18 @@
 ---
-title: aaa
-summary: I have participated and lead a variety of R&D projects with European and national funding including BookSpace, BookTrade, Digitization of the Hellenic Cultural Content, the MINERVA project series, ATHENA, and the University of Patras Operational Programme for Education and Initial Vocational Training (ΕΠΕΑΕΚ II) as well as its extension with innovative actions for semantic annotations of learning material, intelligent search and semantic interoperability.
+# title: aaa
+summary: I have been appointed deputy National Representative of Greece in the [National Representatives Group (NRG)](http://www.minervaeurope.org/structure/nrg.htm) for Coordinating Digitization in Europe and National Expert on Metadata and Interoperability for digitizing and preserving heritage assets. Among others, I have been part of a team for providing state-of-the-art techniques for the digital documentation, promotion and dissemination of information related to museums, archives and heritage institutions, including the Diazoma non-profit organization and the Greek Film Archive, and for developing innovative, semantic tools for their management and preservation.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- digitization
+- cultural heritage
+
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: "http://test"
-url_pdf: "http://test2"
-url_slides: "http://test3"
-url_video: "http://test4"
+
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
