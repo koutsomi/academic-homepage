@@ -56,7 +56,7 @@ address = """University of Patras<br>
 School of Engineering<br> 
 Computer Engineering and Informatics Dpt.<br> 
 High Performance Information Systems Laboratory<br> 
-Building Β, 2nd Floor, Office <A href=``>B206</A><br> 
+Building Β, 2nd Floor, Office <A href=https://www.ceid.upatras.gr/en/building-plan>B206</A><br> 
 26500 Patra - Rio, Greece"""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
