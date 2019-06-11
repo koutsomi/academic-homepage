@@ -34,10 +34,10 @@ title = "Publications"
 
 +++
 
-#### [Books](publications/#books) 
+#### [Books](#books) 
 #### [Theses] (publications/#theses) 
-#### [Book Chapters](publications/#chapters) 
-#### [Scientific Journals](publications/#journals) 
-#### [Refereed Conference Papers](publications/#conferences) 
-#### [Presentations and Talks](publications/#talks) 
-#### [Technical Reports](publications/#reports)
+#### [Book Chapters](#chapters) 
+#### [Scientific Journals](#journals) 
+#### [Refereed Conference Papers](#conferences) 
+#### [Presentations and Talks](#talks) 
+#### [Technical Reports](#reports)
