@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = " "
+title = ""
 subtitle = ""
 
 [design]
@@ -23,11 +23,11 @@ subtitle = ""
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
-  
+
   # Background image.
   image = "contact.jpg"  # Name of image in `static/img/`.
   image_darken = 0.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -42,7 +42,7 @@ subtitle = ""
 [advanced]
  # Custom CSS. 
  css_style = ""
- 
+
  # CSS class.
  css_class = ""
 +++
