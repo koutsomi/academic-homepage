@@ -42,22 +42,22 @@ interests = [
  course = "Lab Lecturer"
  institution = "CEID, University of Patras"
  year = "2017-present"
- 
+
  [[education.courses]]
  course = "Adjunct Faculty"
  institution = "Hellenic Open University"
  year = "2015-present"
- 
+
  [[education.courses]]
  course = "Visiting Postdoctoral Fellow"
  institution = "CEID, University of Patras"
  year = "2013-2017"
- 
+
  [[education.courses]]
  course = "Adjunct Assistant Professor"
  institution = "CEID, University of Patras"
  year = "2008 - 2013"
- 
+
  [[education.courses]]
  course = "Adjunct Faculty"
  institution = "Technological Educational Institution of Western Greece"
@@ -83,12 +83,12 @@ interests = [
   icon = "google-scholar"
   icon_pack = "ai"
   link = "https://scholar.google.gr/citations?user=m4iVA70AAAAJ"
-  
+
  [[social]]
   icon = "researchgate"
   icon_pack = "ai"
   link = "https://www.researchgate.net/profile/Dimitrios_Koutsomitropoulos"
- 
+
 #[[social]]
 # icon = "github"
 #  icon_pack = "fab"
@@ -105,7 +105,7 @@ interests = [
 I am a **tenured** **Lab Lecturer** at the [Department of Computer
 Engineering and Informatics](http://www.ceid.upatras.gr/) and a
 **research associate** at the [High Performance Information Systems
-Laboratory (HPCLab)](../index.html) and the [Pattern Recognition
+Laboratory (HPCLab)](http://old.hpclab.ceid.upatras.gr) and the [Pattern Recognition
 Laboratory (PRLab)](http://prlab.ceid.upatras.gr/), [University of
 Patras](http://www.upatras.gr/).  For 20 years, I have participated and led a variety of [R&D projects](projects/index.html) with European, national and international funding, focusing on the application and promotion of ICT for the cultural and educational sector. I have received a diploma, an M.Sc. and a	
 fellowship-awarded Ph.D. from the same department, specializing in knowledge management and discovery on the Web.

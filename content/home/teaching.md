@@ -7,13 +7,13 @@ weight = 20
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
-  
+
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
    padding = ["20px", "0", "0px", "0"]
 +++
 
-I have been teaching a number of [courses](courses/index.html) at the undergraduate
+I have been teaching a number of [courses](#courses) at the undergraduate
 and graduate programs of the [Dpt. of Computer Engineering and
 Informatics](http://www.ceid.upatras.gr/), University of Patras, [Dpt.
 of Computer Science in Administration and
