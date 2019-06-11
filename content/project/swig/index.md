@@ -3,7 +3,7 @@
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["Big Data", "Ontologies", "Semantic Analytics"]
 title = "SWIGroup"
-date = ""
+#date = ""
 # Project summary to display on homepage.
 summary = "I am coordinating the Semantic Web and Interoperability Group ([SWIGroup](http://swig.hpclab.ceid.upatras.gr/)), where I am working on the development of software and models related to Semantic Web technologies and standards. [See more] (project/swig)"
 
