@@ -40,7 +40,7 @@ I am coordinating the Semantic Web and Interoperability Group ([SWIGroup](http:/
 
 - a prototype [framework](http://swig.hpclab.ceid.upatras.gr/OWLApp) for decentralized reasoning services on the Semantic Web,
 - the [implementation](http://swig.hpclab.ceid.upatras.gr/SKOS) of the multilingual *Thesaurus of Greek Terms* using the Simple Knowledge Organization Systems (SKOS) model and the Ontology Web Language (OWL),
-- a technical [report](http://swig.hpclab.ceid.upatras.gr/SKOS/Skos2Owl2)on expressing SKOS in OWL 2,
+- a technical [report](http://swig.hpclab.ceid.upatras.gr/SKOS/Skos2Owl2) on expressing SKOS in OWL 2,
 - the [implementation ](http://swig.hpclab.ceid.upatras.gr/SWIGroupPapers/CRMinOWL)of CIDOC-CRM in OWL,
 - an [initiative](http://swig.hpclab.ceid.upatras.gr/SSEvaluationAppendix) for the evaluation of semantic query answering in digital repositories.
 - a [Linked Data model](http://swig.hpclab.ceid.upatras.gr/SWIGroupPapers/BookShop) for matchmaking user preferences with book      offers in online bookstores.
