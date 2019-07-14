@@ -44,7 +44,7 @@ I am coordinating the Semantic Web and Interoperability Group ([SWIGroup](http:/
 - the [implementation ](http://swig.hpclab.ceid.upatras.gr/SWIGroupPapers/CRMinOWL)of CIDOC-CRM in OWL,
 - an [initiative](http://swig.hpclab.ceid.upatras.gr/SSEvaluationAppendix) for the evaluation of semantic query answering in digital repositories.
 - a [Linked Data model](http://swig.hpclab.ceid.upatras.gr/SWIGroupPapers/BookShop) for matchmaking user preferences with book      offers in online bookstores.
-- an [ontology model](https://webprotege.stanford.edu/download?project=a5b329e1-ae76-45c0-a227-21476f74c0ea) to support semantic analytics on Big Data in the insurance industry.
+- an [ontology model](https://github.com/swigroup/P-C-Ontology) to support semantic analytics on Big Data in the insurance industry.
 - development of various upper- and domain-level ontologies for culture, education and manufacturing.
 - a [framework](https://github.com/swigroup/dspace-semantic-search/wiki) for semantic-based querying and navigation in digital repositories, which has been awarded the 1st Prize at the National Documentation Center contest *on Applications for Open Data and Repositories for Science & Heritage (*[Hack@EKT](http://saas.ekt.gr/content/contests)*).*
 - A [service](http://snf-630087.vm.okeanos.grnet.gr:8888/SemanticMiddleware-1.1/results?q=medicine) for federated semantic search, classification and harvesting of Open Educational Resources over multiple repositories.
