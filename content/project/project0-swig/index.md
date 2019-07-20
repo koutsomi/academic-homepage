@@ -11,6 +11,9 @@ summary = "I am coordinating the Semantic Web and Interoperability Group ([SWIGr
 #Optional image to display on homepage.
 #image_preview = "swig.gif"
 
+# GitHub link
+url_code = "https://github.com/swigroup"
+
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
