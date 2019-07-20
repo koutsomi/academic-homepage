@@ -10,11 +10,6 @@ summary = "I am coordinating the Semantic Web and Interoperability Group ([SWIGr
 
 #Optional image to display on homepage.
 #image_preview = "swig.gif"
-[[links]]
-icon = "github"
-icon_pack = "fab"
-name = "Code on"
-url = "https://github.com/swigroup/federated-semantic-search"
 
 # GitHub link
 url_code = "https://github.com/swigroup"
@@ -41,6 +36,12 @@ focal_point = ""
 # [header]
 # image = "swig.gif"
 # focal_point = ""
+
+[[links]]
+icon = "github"
+icon_pack = "fab"
+name = "Code on"
+url = "https://github.com/swigroup/federated-semantic-search"
 
 +++
 
