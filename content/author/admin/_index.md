@@ -89,10 +89,10 @@ interests = [
   icon_pack = "ai"
   link = "https://www.researchgate.net/profile/Dimitrios_Koutsomitropoulos"
 
-#[[social]]
-# icon = "github"
-#  icon_pack = "fab"
-#  link = "https://github.com/gcushen"
+[[social]]
+ icon = "github"
+ icon_pack = "fab"
+ link = "https://github.com/swigroup"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
