@@ -8,7 +8,7 @@ weight = 50
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 +++
-- ***Dimitrios A. Koutsomitropoulos***, Andreas Andriopoulos and Spiridon D. Likothanassis. Subject Classification of Learning Resources Using Word Embeddings and Semantic Thesauri.  In *Proc. of the 2019 Int. Symposium on Innovations in Intelligent Systems and Applications (INISTA), IFIP AICT vol. 520,* pp. 1-6. IEEE, 2019. ([pdf](../pdf/inista19.pdf))
+- ***Dimitrios A. Koutsomitropoulos***, Andreas Andriopoulos and Spiridon D. Likothanassis. Subject Classification of Learning Resources Using Word Embeddings and Semantic Thesauri.  In *Proc. of the 2019 Int. Symposium on Innovations in Intelligent Systems and Applications (INISTA), IFIP AICT vol. 520,* pp. 1-6. IEEE, 2019. **([best paper award](https://www.ceid.upatras.gr/el/ceid/awards/best-paper-award-sto-diethnes-synedrio-ieee-inista-2019)** ([pdf](../pdf/inista19.pdf))
 
 - ***Dimitrios A. Koutsomitropoulos*** and Spiridon D. Likothanassis. Preface to SEDSEAL 2018.  In *Proc. of the 14th Int. Conference on Artificial Intelligence Applications and Innovations (AIAI 2018) Workshops, IFIP AICT vol. 520,* pp. IX-X. Springer, 2018. ([pdf](../pdf/sedseal18.pdf))
 
