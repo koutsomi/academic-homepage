@@ -24,3 +24,5 @@ weight = 60
 - **Dimitrios A. Koutsomitropoulos**. Before Digitization: Actions for Prototype Preperation. *National Workshop on Digitizing Cultural Content: Good Practices and IPR Issues,* 2005. (in Greek) [(pdf)](../pdf/wsdcc05.pdf)
 
 - Theodore S. Papatheodorou, George E. Kalamaras and **Dimitrios A. Koutsomitropoulos**. Development and Exploitation of Digital Content for Culture: Initiatives and Actions in National and European Level (invited talk). *3d Greek-Turkish Information Society Forum*, 2003. [(pdf)](../pdf/forum.pdf)
+
+[:arrow_up_small:](#top)
