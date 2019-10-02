@@ -13,3 +13,5 @@ weight = 10
   # padding = ["0", "0", "0", "0"]
 +++
 **Dimitrios A. Koutsomitropoulos**. Methods and Techniques for Semantic Web Knowledge Discovery. Topos Books, 2009. (in Greek)
+
+[:arrow_up_small:](#top)
