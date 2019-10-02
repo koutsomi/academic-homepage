@@ -13,3 +13,5 @@ weight = 70
 - **Dimitrios A. Koutsomitropoulos**, Georgia Solomou and Paraskevi Fragkouli. Multilingual Issues and Access to Digital Cultural Heritage in Greece. MINERVA+ National Report, May 2005. [(pdf)](../pdf/multilingualism.pdf)
 
 - **Dimitrios A. Koutsomitropoulos**. Definition, Requirements and Functional Model for a General Purpose Digital Repository. HPCLab Technical Report, October 2002. (in Greek) [(pdf)](../pdf/reps.pdf)
+
+[:arrow_up_small:](#top)
