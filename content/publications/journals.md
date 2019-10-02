@@ -56,3 +56,5 @@ weight = 40
 - Dimitrios K. Tsolis, Emmanouil G. Karatzas, **Dimitrios A. Koutsomitropoulos**, Sofia Z. Karagiorgoudi and Theodore S. Papatheodorou. Greece National Report. In *Coordinating Digitization in Europe: Progress report of the National Representatives Group for digitization policies and programmes 2003*, pp. 56-62, 2004. [(pdf)](../pdf/nrg03.pdf)
 
 - Theodore S. Papatheodorou, Dimitrios K. Tsolis, Emmanouil G. Karatzas, **Dimitrios A. Koutsomitropoulos**, Sofia Z. Karagiorgoudi and Vasilios Ch. Dourdounis. Greece National Report. In *Coordinating Digitization in Europe: Progress report of the National Representatives Group for digitization policies and programmes 2002*, pp. 88-105. ISBN 92-894-4863-6, 2003. [(pdf)](../pdf/nrg02.pdf)
+
+[back to Top](publications)
