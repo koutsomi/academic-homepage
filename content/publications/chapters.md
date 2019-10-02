@@ -19,3 +19,5 @@ weight = 30
 - **Dimitrios A. Koutsomitropoulos**, George E. Paloukis and Theodore S. Papatheodorou. Semantic Application Profiles: A Means to Enhance Knowledge Discovery in Domain Metadata Models. In M. A. Sicilia and M. Lytras (Eds.), *Metadata and Semantics*, pp. 23-34. Springer, 2009. [(pdf)](../pdf/metadata-springer.pdf)
 
 - Dimitrios K. Tsolis, George K. Tsolis, Emmanouil G. Karatzas, **Dimitrios A. Koutsomitropoulos** and Theodore S. Papatheodorou. Copyright Protection and Exploitation of Digital Cultural Heritage. In J. Hemsley, V. Cappellini and G. Stanke, editors, *Digital Applications for Cultural and Heritage Institutions*, pp.189-196. Ashgate, 2005.
+
+[:arrow_up_small:](#top)
