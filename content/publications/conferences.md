@@ -81,3 +81,5 @@ weight = 50
 - Dimitrios K. Tsolis, George K. Tsolis, Emmanouil G. Karatzas, **Dimitrios A. Koutsomitropoulos** and Theodore S. Papatheodorou. An Electronic Sales Infrastructure for the Exploitation of Digital Cultural Heritage and Copyright Protection of Digital Images. In *Proc. of 2002 International Conference on Advances in Infrastructure for Electronic Business, Science, and Education on the Internet (SSGRR 2002w)*, 2002. [(pdf)](../pdf/ssgrrw02.pdf)
 
 - Nektarios P. Georgantis, **Dimitrios A. Koutsomitropoulos**, Paris A. Zafiris and Theodore S. Papatheodorou. A Review and Evaluation of Platforms and Tools for Building E-catalogs. In *Proc. of 35th Annual Hawaii International Conference on System Sciences (HICSS 2002)*. Vol. 7, p. 188b, 2002. [(pdf)](../pdf/hicss35.pdf)
+
+[:arrow_up_small:](#top)
