@@ -35,7 +35,7 @@ title = "Publications"
 +++
 
 #### [Books](#books) 
-#### [Theses] (publications/#theses) 
+#### [Theses] (#theses) 
 #### [Book Chapters](#chapters) 
 #### [Scientific Journals](#journals) 
 #### [Refereed Conference Papers](#conferences) 
