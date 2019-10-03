@@ -11,6 +11,8 @@ weight = 60
 
 - **Dimitrios A. Koutsomitropoulos**. Semantics in the Deep - Semantic Analytics for Big Data: Introduction and Overview. *14th International Conference on Artificial Intelligence Applications and Innovations (AIAI 2018) – Int. Workshop on Semantic Analytics for Big Data (SEDSEAL)*, 2018. [(pdf)](../pdf/sedseal2018-intro.pdf)
 
+- **Dimitrios A. Koutsomitropoulos**. Semantic Web and Reasoning for Cultural Heritage and Digital Libraries: An Overview. *4th IEEE Int. Conference on Semantic Computing (ICSC 2010) – IEEE Int. Workshop SWARCH-DL*, 2010 [(pdf)](../pdf/swarch-dl10.pdf)
+
 - **Dimitrios A. Koutsomitropoulos**. Software Characteristics for Product Concurrent Engineering. *PROCEN Network Workshop*, 2010. (in Greek) [(pdf)](../pdf/procen10.pdf)
 
 - **Dimitrios A. Koutsomitropoulos**, Georgia D. Solomou and Theodore S. Papatheodorou. Digital Repositories and the Semantic Web: Semantic Search and Navigation for DSpace (refereed presentation). *DSpace Federation 5th User Group Meeting*, 2009.[(pdf)](http://hdl.handle.net/2077/21339)
