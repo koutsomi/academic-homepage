@@ -10,6 +10,7 @@
     - C. L. Mariano, "[Benchmarking JavaScript Frameworks](https://arrow.dit.ie/cgi/viewcontent.cgi?article=1100&context=scschcomdis)", Dublin Institute of Technology, 2017.
     - [How to: Apache Jena Fuseki — 3.x.x](https://medium.com/@rrichajalota234/how-to-apache-jena-fuseki-3-x-x-1304dd810f09)
    
+   
 2. **Μοντελοποίηση συμπεριφοράς χρηστών σε υπηρεσία αναζήτησης περιεχομένου με χρήση χρονοσειρών και Νευρωνικών Δικτύων**
 
     Η βαθιά μάθηση (deep learning) μπορεί να αξιοποιηθεί για την πρόβλεψη μιας τιμής ή διαδικασίας βάσει ιστορικού παρελθόντων δεδομένων. Στην εργασία αυτή θα εξεταστούν τεχνικές βαθιάς μάθησης που μπορούν να βοηθήσουν στην πρόβλεψη των επόμενων ενεργειών ενός χρήστη με βάση την ακολουθία προηγούμενων ενεργειών του, αξιοποιώντας Νευρωνικά Δίκτυα Ανατροφοδότησης (RNN) όπως τα LSTM. Για παράδειγμα, μπορεί να καταγράφονται τα προηγούμενα ερωτήματα που υποβάλλονται σε μια υπηρεσία αναζήτησης και οι σχετικές ενέργειες του χρήστη (επιλογή, αποδοχή συστάσεων, τροποποίηση, απόρριψη) και οι πληροφορίες αυτές να χρησιμοποιούνται για την πρόβλεψη των προτιμήσεων του χρήστη και για εξατομίκευση.
@@ -20,6 +21,7 @@
     - Sreelakshmi K, Rafeeque PC, Sreetha S, Gayathri ES. Deep Bi-Directional LSTM Network for Query Intent Detection. Procedia computer science. 2018;143:939-46.
     - Żołna K, Romański B. User modeling using LSTM networks. InThirty-First AAAI Conference on Artificial Intelligence, 2017.
    
+   
 3. **Σημασιολογική αντιστοίχιση δεδομένων μεγάλου όγκου σε γράφους γνώσης με χρήση διανυσμάτων λέξεων**
 
     Με την εξάπλωση του Παγκόσμιου Ιστού και την αύξηση του διαθέσιμου αποθηκευτικού χώρου υπάρχουν σήμερα διαθέσιμα μεγάλα σύνολα δεδομένων σε αδόμητη ή ημιδομημένη μορφή, όπως κείμενα και συμβολοσειρές σε μορφή πίνακα ή csv. Η εργασία αυτή θα μελετήσει την δυνατότητα αντιστοίχισης των πληροφοριών αυτών σε δομημένους γράφους γνώσης (knowledge graphs) με χρήση μηχανικής μάθησης και συγκεκριμένα διανυσμάτων λέξεων (word embeddings). Το πρόβλημα αυτό παραμένει ανοιχτό στην πράξη κυρίως λόγω ελλιπών ή αμφίσημων δεδομένων. Η κατανόηση της σημασιακής δομής των δεδομένων αυτών θα βοηθήσει περαιτέρω στη διαδικασία ανάλυσής τους (data analytics).
@@ -29,6 +31,7 @@
     - Proc. of the ISWC2019 [Semantic Web Challenge](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/) on Tabular Data to Knowledge Graph Matching
     - Teslya N, Savosin S. Matching Ontologies with Word2Vec-Based Neural Network. InInternational Conference on Computational Science and Its Applications 2019  (pp. 745-756). Springer.
     - Kolyvakis, P., Kalousis, A., Smith, B., & Kiritsis, D. (2018). Biomedical ontology alignment: an approach based on representation learning. *Journal of biomedical semantics*, *9*(1), 21.
+   
    
 4. **Σύστημα αυτόματης  ταξινόμησης  βιο-ιατρικών βιβλιογραφικών πόρων με χρήση τεχνικών βαθιάς μάθησης**
 
@@ -41,6 +44,7 @@
     - Segura B., P. Martínez and M. A. Carruan, Search and Graph Database Technologies for Biomedical Semantic Indexing: Experimental Analysis, in JMIR Med Inform. 1;5(4):e48. doi: 10.2196/medinform.7059, December 2017.
    - Koutsomitropoulos, Dimitrios A., Andreas D. Andriopoulos and Spiridon D. Likothanassis. “Subject Classification of Learning Resources Using Word Embeddings and Semantic Thesauri.” *2019 IEEE International Symposium on INnovations in Intelligent SysTems and Applications (INISTA)* (2019): 1-6.
    
+   
 5. **Μελέτη και αξιολόγηση αλγορίθμων διανυσματικής αναπαράστασης φυσικής γλώσσας** 
 
     Τα διανύσματα λέξεων είναι ένας νέος τρόπος αναπαράστασης λεκτικής πληροφορίας που έχει φέρει επανάσταση στο χώρο της επεξεργασίας φυσικής γλώσσας (NLP). Συγκεκριμένα Νευρωνικά Δίκτυα μπορούν να εκπαιδευτούν με βάση τα συμφραζόμενα ώστε να υπολογίζουν,  για μια λέξη, φράση ή ολόκληρο κείμενο μια αναπαράσταση σε μορφή διανύσματος αριθμών. Η παρούσα εργασία  θα πραγματοποιήσει έρευνα και συγκριτική αξιολόγηση σύγχρονων τέτοιων πλαισίων, όπως τα word2vec, glove, fasttext, ELMo και BERT.
@@ -50,6 +54,7 @@
     - Le, Quoc, and Tomas Mikolov. "Distributed representations of sentences and documents." In *International conference on machine learning*, pp. 1188-1196. 2014.
     - [ELMo Meet BERT: Recent Advances in Natural Language Embeddings](https://bensen.ai/elmo-meet-bert-recent-advances-in-natural-language-embeddings)
     - Devlin, J., Chang, M.W., Lee, K. and Toutanova, K., 2018. Bert: Pre-training of deep bidirectional transformers for language understanding. *arXiv preprint [arXiv:1810.04805](https://arxiv.org/abs/1810.04805)*. 
+   
    
 6. **Μάθηση αναπαράστασης και εφαρμογή σε γραφήματα Διασυνδεδεμένων Δεδομένων**
 
@@ -61,6 +66,7 @@
     - Ristoski, P., Rosati, J., Di Noia, T., De Leone, R. and Paulheim, H., 2019. RDF2Vec: RDF graph embeddings and their applications. *Semantic Web*, *10*(4), pp.721-752.
     - Holter, O.M., Myklebust, E.B., Chen, J. and Jimenez-Ruiz, E., [Embedding OWL Ontologies with OWL2Vec](http://ceur-ws.org/Vol-2456/paper9.pdf). 2019
    
+   
 7. **Διασύνδεση Πηγών Δεδομένων με Ανοιχτά Συνδεδεμένα Δεδομένα για την Οικονομία, τον Πολιτισμό και την Εκπαίδευση**
 
     Τα Ανοιχτά Συνδεδεμένα Δεδομένα (Linked Data) είναι ένας τρόπος αναπαράστασης και διασύνδεσης πληροφοριών και μεταδεδομένων με στόχο την αναβάθμιση του Διαδικτύου σε μια καθολική βάση δεδομένων (Web of Data). Όλο και περισσότεροι κυβερνητικοί και μη οργανισμοί καθιστούν διαθέσιμα τα δεδομένα τους ως Linked Data για να ενισχύσουν τη διαφάνεια και τη διαλειτουργικότητα, όπως η Διαύγεια, το LinkedEconomy και η Europeana. Τα δεδομένα αυτά συνήθως συγκεντρώνονται και δεικτοδοτούνται στα λεγόμενα datahubs, όπως το datahub.io, το data.gov.gr, το ckan κ.ά. Ακόμα και τα λεξιλόγια που χρησιμοποιούνται στις συλλογές αυτές τείνουν να τυποποιηθούν και να γίνουν διαθέσιμα ως Linked Data (semantics.gr), βοηθώντας έτσι στη σημασιακή διαλειτουργικότητα.
@@ -71,6 +77,7 @@
     - Mohamed Ahmed Sherif, Pestryakova Svetlana, Kevin Dreßler, Axel-Cyrille Ngonga Ngomo. [LimesWebUI–Link Discovery Made Simple](http://ceur-ws.org/Vol-2456/paper53.pdf). 2019
     - Nentwig, M., Hartung, M., Ngonga Ngomo, A.C. and Rahm, E., 2017. A survey of current link discovery frameworks. *Semantic Web*, *8*(3), pp.419-436.
     - Robert Isele, Christian Bizer: Active Learning of Expressive Linkage Rules using Genetic Programming. Journal of Web Semantics, Vol. 23, pp. 2-15, DOI 10.1016/j.websem.2013.06.001, 2013.
+
 
 8. **Διαχείριση Δεδομένων Μεγάλου Όγκου με Χρήση Σημασιακών Τεχνικών και Οντολογιών**
 
