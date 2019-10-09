@@ -24,5 +24,5 @@ weight = 2  # Order that this section will appear.
  css_class = ""
 +++
 {{% alert note %}}
-Here's some important NEWS...
+Θέματα Διπλωματικών Εργασιών 2019-2020
 {{% /alert %}}
