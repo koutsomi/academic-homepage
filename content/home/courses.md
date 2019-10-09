@@ -12,6 +12,8 @@ weight = 25
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["0", "0", "20px", "0"]
 +++
+:page_facing_up: [Θέματα Διπλωματικών Εργασιών](/thesesTopics)
+
 :page_facing_up: Object-οriented Programming ([Αντικειμενοστραφής Προγραμματισμός](https://eclass.upatras.gr/courses/CEID1105/))
 
 :page_facing_up: Computational Intelligence ([Υπολογιστική Νοημοσύνη](https://eclass.upatras.gr/courses/CEID1060/))
