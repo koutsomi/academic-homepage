@@ -84,6 +84,7 @@
     H πρόοδος στην υπολογιστική ισχύ, η αύξηση του αποθηκευτικού χώρου και η εξάπλωση του Διαδικτύου έχουν καταστήσει διαθέσιμες υψηλές συγκεντρώσεις δεδομένων από μετρήσεις, καταγραφές, δημοσιεύσεις, αισθητήρες που καλούνται Δεδομένα Μεγάλου Όγκου (Big Data). Για την αποτελεσματική αξιοποίηση των δεδομένων αυτών και κυρίως για την εξαγωγή αξίας μπορούν να χρησιμοποιηθούν τεχνικές συμπερασμού και εξαγωγής γνώσης που βασίζονται σε οντολογίες (ontology reasoning), καθώς και αλγόριθμοι μηχανικής μάθησης. Στόχος της διπλωματικής είναι να καταγράψει και να αξιολογήσει τα διαθέσιμα πλαίσια διαχείρισης και αποθήκευσης τριπλετών και γραφημάτων (Graph databases, triple stores), που περιλαμβάνουν τα SANSA Stack, Stardog, Virtuoso, AllegroGraph, GraphDB, Fuseki κ.α. και να εξετάσει  τρόπους αποδοτικής επερώτησης και σημασιακής ανάλυσης (semantic analytics) των δεδομένων αυτών σε μια κατανεμημένη υποδομή όπως το SPARK.
    
     *Ενδεικτικές πηγές-βιβλιογραφία:*
+    
     - <https://www.w3.org/wiki/LargeTripleStores>
     - Stadler, C., Sejdiu, G., Graux, D. and Lehmann, J., 2019. [Querying Large-scale RDF Datasets Using the SANSA Framework](http://ceur-ws.org/Vol-2456/paper74.pdf). ISWC 2019.
     - Lehmann, J., Sejdiu, G., Bühmann, L., Westphal, P., Stadler, C., Ermilov, I., Bin, S., Chakraborty, N., Saleem, M., Ngomo, A.C.N. and Jabeen, H., 2017, October. Distributed semantic analytics using the sansa stack. In *International Semantic Web Conference* (pp. 147-155). Springer.
