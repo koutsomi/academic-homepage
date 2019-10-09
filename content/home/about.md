@@ -11,6 +11,3 @@ title = "Personal Information"
 # This should be the username of a profile in your `content/author/` folder.
 author = "admin"
 +++
-{{% alert note %}}
-Here's some important information...
-{{% /alert %}}
