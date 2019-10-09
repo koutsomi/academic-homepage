@@ -38,7 +38,7 @@ weight = 1  # Order that this section will appear.
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  # padding = ["20px", "0", "20px", "0"]
+  # padding = ["20px", "0", "0", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -47,10 +47,4 @@ weight = 1  # Order that this section will appear.
  # CSS class.
  css_class = ""
 +++
-{{% alert warning %}}
-Here's some important informationTOP1...
-{{% /alert %}}
 <br><br><br><br><br><br>
-{{% alert warning %}}
-Here's some important informationTOP2...
-{{% /alert %}}
