@@ -10,4 +10,8 @@ title = "Personal Information"
 # Choose the user profile to display
 # This should be the username of a profile in your `content/author/` folder.
 author = "admin"
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["0", "0", "20px", "0"]
 +++
