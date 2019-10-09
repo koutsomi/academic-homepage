@@ -77,9 +77,8 @@
     - Mohamed Ahmed Sherif, Pestryakova Svetlana, Kevin Dreßler, Axel-Cyrille Ngonga Ngomo. [LimesWebUI–Link Discovery Made Simple](http://ceur-ws.org/Vol-2456/paper53.pdf). 2019
     - Nentwig, M., Hartung, M., Ngonga Ngomo, A.C. and Rahm, E., 2017. A survey of current link discovery frameworks. *Semantic Web*, *8*(3), pp.419-436.
     - Robert Isele, Christian Bizer: Active Learning of Expressive Linkage Rules using Genetic Programming. Journal of Web Semantics, Vol. 23, pp. 2-15, DOI 10.1016/j.websem.2013.06.001, 2013.
-
-
-
+    
+    
 8. **Διαχείριση Δεδομένων Μεγάλου Όγκου με Χρήση Σημασιακών Τεχνικών και Οντολογιών**
 
     H πρόοδος στην υπολογιστική ισχύ, η αύξηση του αποθηκευτικού χώρου και η εξάπλωση του Διαδικτύου έχουν καταστήσει διαθέσιμες υψηλές συγκεντρώσεις δεδομένων από μετρήσεις, καταγραφές, δημοσιεύσεις, αισθητήρες που καλούνται Δεδομένα Μεγάλου Όγκου (Big Data). Για την αποτελεσματική αξιοποίηση των δεδομένων αυτών και κυρίως για την εξαγωγή αξίας μπορούν να χρησιμοποιηθούν τεχνικές συμπερασμού και εξαγωγής γνώσης που βασίζονται σε οντολογίες (ontology reasoning), καθώς και αλγόριθμοι μηχανικής μάθησης. Στόχος της διπλωματικής είναι να καταγράψει και να αξιολογήσει τα διαθέσιμα πλαίσια διαχείρισης και αποθήκευσης τριπλετών και γραφημάτων (Graph databases, triple stores), που περιλαμβάνουν τα SANSA Stack, Stardog, Virtuoso, AllegroGraph, GraphDB, Fuseki κ.α. και να εξετάσει  τρόπους αποδοτικής επερώτησης και σημασιακής ανάλυσης (semantic analytics) των δεδομένων αυτών σε μια κατανεμημένη υποδομή όπως το SPARK.
