@@ -23,6 +23,6 @@ weight = 2  # Order that this section will appear.
  # CSS class.
  css_class = ""
 +++
-{{% alert warning %}}
+{{% alert note %}}
 Here's some important NEWS...
 {{% /alert %}}
