@@ -2,8 +2,8 @@
 
 widget = "blank"
 headless = true  # This file represents a page section.
-title = "News"
-weight = 25
+title = ""
+weight = 2
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
