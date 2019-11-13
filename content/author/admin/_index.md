@@ -26,8 +26,8 @@ email = ""
 interests = [
 "Big and Linked Data",
 "Semantic Analytics",
+"Representation and Deep Learning",
 "Digital Libraries",
-"Knowledge Discovery",
 "Automated Reasoning",
 "Metadata Integration",
 "Semantic Web"
