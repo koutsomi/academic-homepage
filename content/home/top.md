@@ -15,7 +15,7 @@ weight = 1  # Order that this section will appear.
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 
-[background]
+[design.background]
   # Background color.
   # color = "navy"
 
