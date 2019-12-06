@@ -56,7 +56,7 @@ phone = "+302610996997"
 address = """University of Patras<br> 
 School of Engineering<br> 
 Computer Engineering and Informatics Dpt.<br> 
-New Building, 2nd Floor, Office <A href=/static/img/plan.png>2.15</A><br> 
+New Building, 2nd Floor, Office <A href=/img/plan.png>2.15</A><br> 
 26500 Patra - Rio, Greece"""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
@@ -95,7 +95,7 @@ map = 2
 map_api_key = ""
 latitude = "38.29044"
 longitude = "21.79494"
-zoom = 15
+zoom = 16
 
 ############################
 ## Plugins                ##
