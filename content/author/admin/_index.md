@@ -107,5 +107,5 @@ Engineering and Informatics](http://www.ceid.upatras.gr/) and a
 **research associate** at the [High Performance Information Systems
 Laboratory (HPCLab)](http://old.hpclab.ceid.upatras.gr) and the [Pattern Recognition
 Laboratory (PRLab)](http://prlab.ceid.upatras.gr/), [University of
-Patras](http://www.upatras.gr/).  For 20 years, I have participated and led a variety of [R&D projects](projects/index.html) with European, national and international funding, focusing on the application and promotion of ICT for the cultural and educational sector. I have received a diploma, an M.Sc. and a	
+Patras](http://www.upatras.gr/).  For 20 years, I have participated and led a variety of [R&D projects](#projects) with European, national and international funding, focusing on the application and promotion of ICT for the cultural and educational sector. I have received a diploma, an M.Sc. and a	
 fellowship-awarded Ph.D. from the same department, specializing in knowledge management and discovery on the Web.
