@@ -60,8 +60,8 @@ New Building, 2nd Floor, Office <A href=/img/plan.png>2.15</A><br>
 26500 Patra - Rio, Greece"""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Mon. 12:00-13:00<br>
-                  Wed. 16:00-18:00"""
+office_hours = """<del>Mon. 12:00-13:00</del> please contact me first!<br>
+                  <del>Wed. 16:00-18:00</del>"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
