@@ -56,7 +56,7 @@ phone = "+302610996997"
 address = """University of Patras<br> 
 School of Engineering<br> 
 Computer Engineering and Informatics Dpt.<br> 
-New Building, 2nd Floor, Office <A href=/img/plan.png>2.15</A><br> 
+New Building, 2nd Floor, Office <A href=img/plan.png>2.15</A><br> 
 26500 Patra - Rio, Greece"""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
