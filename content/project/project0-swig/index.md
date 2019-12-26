@@ -54,5 +54,5 @@ I am coordinating the Semantic Web and Interoperability Group ([SWIGroup](http:/
 - development of various upper- and domain-level ontologies for culture, education and manufacturing.
 - a [framework](https://github.com/swigroup/dspace-semantic-search/wiki) for semantic-based querying and navigation in digital repositories, which has been awarded the 1st Prize at the National Documentation Center contest *on Applications for Open Data and Repositories for Science & Heritage (*[Hack@EKT](http://saas.ekt.gr/content/contests)*).*
 - A [service](https://github.com/swigroup/federated-semantic-search) for federated semantic search, classification and harvesting of Open Educational Resources over multiple repositories.
-- A semantic learning approach for classifying educational resources using word embeddings.
+- A semantic learning [approach](https://github.com/swigroup/semantic-learning) for classifying educational resources using word embeddings.
 - Other recent projects include semantic analytics for Big Data, Linked Data and [ontologies for e-Learning](https://github.com/swigroup/LO-Ontology).
