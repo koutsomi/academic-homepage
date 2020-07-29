@@ -9,7 +9,9 @@ weight = 40
   columns = "2"
 
 +++
-- **Dimitrios A. Koutsomitropoulos**. Semantic Annotation and Harvesting of Federated Scholarly Data Using Ontologies. *Digital Library Perspectives*, 35 (3-4). Emerald, 2019. ([link](https://doi.org/10.1108/DLP-12-2018-0038)) ([pdf](../pdf/dlp2019.pdf))
+- **Dimitrios A. Koutsomitropoulos**, Andreas Andriopoulos and Spiridon D. Likothanassis. Semantic Classification and Indexing of Open Educational Resources with Word Embeddings and Ontologies. *Cybernetics and Information Technologies*. IICT, to appear. ([pdf](../pdf/cit2020.pdf))
+
+- **Dimitrios A. Koutsomitropoulos**. Semantic Annotation and Harvesting of Federated Scholarly Data Using Ontologies. *Digital Library Perspectives* 35 (3-4), pp. 157-171. Emerald, 2019. ([link](https://doi.org/10.1108/DLP-12-2018-0038)) ([pdf](../pdf/dlp2019.pdf))
 
 - **Dimitrios A. Koutsomitropoulos**, Spiridon D. Likothanassis and Panos Kalnis. Semantics in the Deep: Semantic Analytics for Big Data. *Data* 4 (2), 63. DOI: 10.3390/data4020063. MDPI, 2019. ([link](https://www.mdpi.com/journal/data/special_issues/Semantic_Analytics)) ([pdf](../pdf/data2019.pdf))
 
