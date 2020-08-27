@@ -10,7 +10,7 @@ weight = 25
   
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  # padding = ["0", "0", "20px", "0"]
+   padding = ["0", "0", "20px", "0"]
 +++
 :page_facing_up: [Θέματα Διπλωματικών Εργασιών](thesestopics)
 
