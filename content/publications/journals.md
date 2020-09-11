@@ -9,7 +9,7 @@ weight = 40
   columns = "2"
 
 +++
-- **Dimitrios A. Koutsomitropoulos**, Andreas Andriopoulos and Spiridon D. Likothanassis. Semantic Classification and Indexing of Open Educational Resources with Word Embeddings and Ontologies. *Cybernetics and Information Technologies*. IICT, to appear. ([pdf](../pdf/cit2020.pdf))
+- **Dimitrios A. Koutsomitropoulos**, Andreas Andriopoulos and Spiridon D. Likothanassis. Semantic Classification and Indexing of Open Educational Resources with Word Embeddings and Ontologies. *Cybernetics and Information Technologies* 20 (5), pp. 95-116. IICT, 2020. ([pdf](../pdf/cit2020.pdf))
 
 - **Dimitrios A. Koutsomitropoulos**. Semantic Annotation and Harvesting of Federated Scholarly Data Using Ontologies. *Digital Library Perspectives* 35 (3-4), pp. 157-171. Emerald, 2019. ([link](https://doi.org/10.1108/DLP-12-2018-0038)) ([pdf](../pdf/dlp2019.pdf))
 
