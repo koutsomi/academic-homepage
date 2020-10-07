@@ -16,8 +16,10 @@ weight = 25
 
 :page_facing_up: Object-οriented Programming ([Αντικειμενοστραφής Προγραμματισμός](https://eclass.upatras.gr/courses/CEID1105/))
 
+:page_facing_up: Artificial Intelligence ([Τεχνητή Νοημοσύνη](https://eclass.upatras.gr/courses/CEID1104/))
+
 :page_facing_up: Computational Intelligence ([Υπολογιστική Νοημοσύνη](https://eclass.upatras.gr/courses/CEID1060/))
 
-:page_facing_up: Web Programming and Systems ([Προγραμματισμός και Συστήματα στον Παγκόσμιο Ιστό](http://athos.ceid.upatras.gr/intech/))
+:page_facing_up: Web Programming and Systems ([Προγραμματισμός και Συστήματα στον Παγκόσμιο Ιστό](https://eclass.upatras.gr/courses/CEID1092/))
 
 :page_facing_up: Learning Algorithms, postgraduate ([Αλγόριθμοι Μάθησης](https://eclass.upatras.gr/courses/CEID1043/), ΠΜΣ ΕΤΥ)
