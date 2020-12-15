@@ -1,5 +1,5 @@
 +++
-active = true
+active = false
 widget = "blank"
 headless = true  # This file represents a page section.
 title = ""
@@ -13,6 +13,6 @@ weight = 2
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["10px", "0", "0", "0"]
 +++
-# {{% alert note %}}
-# [Θέματα Διπλωματικών Εργασιών 2020-2021](thesestopics)
-# {{% /alert %}}
+{{% alert note %}}
+[Θέματα Διπλωματικών Εργασιών 2020-2021](thesestopics)
+{{% /alert %}}
