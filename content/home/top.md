@@ -24,7 +24,7 @@ weight = 1  # Order that this section will appear.
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "banner.jpg"  # Name of image in `static/img/`.
+  image = "banner2.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -35,11 +35,8 @@ weight = 1  # Order that this section will appear.
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  # padding = ["20px", "0", "200px", "0"]
+  # padding = ["20px", "0", "20px", "0"]
   
-[header]
-  image = "banner.jpg"
-
 [advanced]
  # Custom CSS. 
  css_style = ""
