@@ -15,7 +15,7 @@ weight = 1  # Order that this section will appear.
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 
-[design.background]
+# [design.background]
   # Background color.
   # color = "navy"
 
@@ -31,13 +31,13 @@ weight = 1  # Order that this section will appear.
   # image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  # text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
   # padding = ["20px", "0", "200px", "0"]
   
-  [header]
+[header]
   image = "banner.jpg"
 
 [advanced]
