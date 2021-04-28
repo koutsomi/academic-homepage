@@ -9,6 +9,8 @@ weight = 40
   columns = "2"
 
 +++
+- **Dimitrios A. Koutsomitropoulos** and Andreas Andriopoulos. Thesaurus-based Word Embeddings for Automated Biomedical Literature Classification. *Neural Computing and Applications*. Springer, to appear. ([pdf](../pdf/nca2021.pdf))
+
 - **Dimitrios A. Koutsomitropoulos**, Andreas Andriopoulos and Spiridon D. Likothanassis. Semantic Classification and Indexing of Open Educational Resources with Word Embeddings and Ontologies. *Cybernetics and Information Technologies* 20 (5), pp. 95-116. IICT, 2020. ([link](http://www.cit.iit.bas.bg/CIT-2020/CIT-20-5.html)) ([pdf](../pdf/cit2020.pdf))
 
 - **Dimitrios A. Koutsomitropoulos**. Semantic Annotation and Harvesting of Federated Scholarly Data Using Ontologies. *Digital Library Perspectives* 35 (3-4), pp. 157-171. Emerald, 2019. ([link](https://doi.org/10.1108/DLP-12-2018-0038)) ([pdf](../pdf/dlp2019.pdf))
