@@ -8,6 +8,8 @@ weight = 50
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 +++
+- ***Dimitrios A. Koutsomitropoulos***. Validating Ontology-based Annotations of Biomedical Resources using Zero-shot Learning. In Proc. of the The 12th International Conference on Computational Systems-Biology and Bioinformatics (CSBio2021). ACM ICPS, to appear. ([pdf](../pdf/csbio2021.pdf))
+
 - Xenofon Pournaras and ***Dimitrios A. Koutsomitropoulos***. Deep Learning on the Web: State-of-the-art Object Detection using Web-based Client-side Frameworks. In *Proc. of the 11th Int. Conference on Information, Intelligence, Systems and Applications (IISA)*, pp.1-8. IEEE, 2020. ([pdf](../pdf/iisa2020.pdf))
 
 - ***Dimitrios A. Koutsomitropoulos*** and Andreas D. Andriopoulos. Automated MeSH Indexing of Biomedical Literature using Contextualized Word Representations. In *Proc. of the 16th Int. Conference on Artificial Intelligence Applications and Innovations (AIAI), IFIP AICT vol. 583,* pp. 343-354. Springer, 2020.  ([pdf](../pdf/aiai2020.pdf))
