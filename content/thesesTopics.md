@@ -43,12 +43,12 @@
 4. **Σύγχρονες τεχνικές για την ανάπτυξη βοηθού ανοιχτού τομέα (open-domain chatbot)**
 
     Τα ομιλώντα συστήματα (chatbots) με πληθώρα υλοποιήσεων συμμετέχουν ενεργά σε διάφορους τομείς της καθημερινότητας. Σημαντικό υποσύνολο, είναι αυτά που βοηθούν ικανοποιητικά σε συγκεκριμένες κατηγορίες θεμάτων, όπως παραγγελίες προϊόντων, παροχή οδηγιών μετακίνησης, ιατρικές γνωματεύσεις, κ.ά. Παρ' όλα αυτά, ιδιαίτερο ενδιαφέρουν παρουσιάζουν και όσα έχουν τη δυνατότητα γενίκευσης της συζήτησης σε διαφορετικά θέματα (Open-Domain). Σκοπός της παρούσας διπλωματικής εργασίας είναι η σχεδίαση αλλά και η υλοποίηση chatbot, όπου με τη βοήθεια τεχνικών θα μπορεί να διαχειριστεί διάλογο χρήστη-μηχανής χωρίς περιορισμό στη θεματολογία. Η ανάπτυξη θα μπορούσε να γίνει με χρήση γλώσσας προγραμματισμού πχ. Python ή οποιασδήποτε cloud πλατφόρμας πχ. Google’s DialogFlow, κλπ.
-   
+    
    *Ενδεικτικές πηγές-βιβλιογραφία:*
    
-    - Adamopoulou E., Moussiades L. An Overview of Chatbot Technology. Artificial Intelligence Applications and Innovations. 2020;584:373-383. Published 2020 May 6. doi:10.1007/978-3-030-49186-4_31 
-    - Roller S, Dinan E, Goyal N, Ju D, Williamson M, Liu Y, Jing Xu, Ott M, Smith EM, Boureau YL & Weston J, Recipes for Building an Open-Domain Chatbot, Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume, pp. 300-325, April 2021.
-    - Adiwardana, D.D., Luong, M., So, D.R., Hall, J., Fiedel, N., Thoppilan, R., Yang, Z., Kulshreshtha, A., Nemade, G., Lu, Y., & Le, Q.V. . Towards a Human-like Open-Domain Chatbot. Published 2020, ArXiv, abs/2001.09977.
+   - Adamopoulou E., Moussiades L. An Overview of Chatbot Technology. Artificial Intelligence Applications and Innovations. 2020;584:373-383. Published 2020 May 6. doi:10.1007/978-3-030-49186-4_31. 
+   - Roller S, Dinan E, Goyal N, Ju D, Williamson M, Liu Y, Jing Xu, Ott M, Smith EM, Boureau YL & Weston J, Recipes for Building an Open-Domain Chatbot, Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume, pp. 300-325, April 2021.
+   - Adiwardana, D.D., Luong, M., So, D.R., Hall, J., Fiedel, N., Thoppilan, R., Yang, Z., Kulshreshtha, A., Nemade, G., Lu, Y., & Le, Q.V. . Towards a Human-like Open-Domain Chatbot. Published 2020, ArXiv, abs/2001.09977.
 
 
     
