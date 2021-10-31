@@ -1,5 +1,5 @@
 +++
-active = false
+active = true
 widget = "blank"
 headless = true  # This file represents a page section.
 title = ""
@@ -14,5 +14,5 @@ weight = 2
   padding = ["10px", "0", "0", "0"]
 +++
 {{% alert note %}}
-[Θέματα Διπλωματικών Εργασιών 2020-2021](thesestopics)
+[Θέματα Διπλωματικών Εργασιών 2021-2022](thesestopics)
 {{% /alert %}}
