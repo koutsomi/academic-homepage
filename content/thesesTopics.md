@@ -10,8 +10,8 @@
     - Yin, W., Hay, J., & Roth, D. (2019). Benchmarking zero-shot text classification: Datasets, evaluation and entailment approach. In Proc. of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP 2019), pp. 3914-3923.
     - Wei, J., Bosma, M., Zhao, V. Y., Guu, K., Yu, A. W., Lester, B., ... & Le, Q. V. (2021). Finetuned language models are zero-shot learners. arXiv preprint arXiv:2109.01652. 
     - Conneau, A., Khandelwal, K., Goyal, N., Chaudhary, V., Wenzek, G., Guzmán, F., Grave, E., Ott, M., Zettlemoyer, L. and Stoyanov, V. (2019). Unsupervised cross-lingual representation learning at scale. In Proc. of the 58th Annual Meeting of the Association for Computational Linguistics (ACL), pp. 8440–8451.
-    - Koutsomitropoulos, D. (2021). Validating Ontology-based Annotations of Biomedical Resources using Zero-shot Learning. In Proc. of the 12th International Conference on Computational Systems-Biology and Bioinformatics (CSBio 2021). 
-    -Schmid, P. (2021) [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API.](https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api)
+    - Koutsomitropoulos, D. (2021). [Validating Ontology-based Annotations of Biomedical Resources using Zero-shot Learning](/pdf/csbio2021.pdf). In Proc. of the 12th International Conference on Computational Systems-Biology and Bioinformatics (CSBio 2021). 
+    - Schmid, P. (2021) [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API.](https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api)
 
     
     
