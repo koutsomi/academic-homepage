@@ -16,4 +16,4 @@ weight = 30
 
 <i class="fa fa-award" aria-hidden="true"></i> As of June 2020, our paper ["Automated MeSH Indexing of Biomedical Literature Using Contextualized Word Representations"](publications#conferences) has been included in the [Nature Public Health Emergency Collection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7256379/), under an international [Public Health Emergency COVID-19 Initiative](https://www.ncbi.nlm.nih.gov/pmc/about/covid-19/). 
 
-<i class="ai ai-ieee" aria-hidden="true"></i> I am a member of [ACM] (https://www.acm.org), [IEEE](https://www.ieee.org) and the [IEEE Computer Society](https://www.computer.org). 
+<i class="ai ai-acm" aria-hidden="true"></i><i class="ai ai-ieee" aria-hidden="true"></i> I am a member of [ACM](https://www.acm.org), [IEEE](https://www.ieee.org) and the [IEEE Computer Society](https://www.computer.org). 
