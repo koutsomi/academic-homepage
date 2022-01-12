@@ -13,6 +13,6 @@ weight = 2
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["10px", "0", "0", "0"]
 +++
-# {{% alert note %}}
-# [Θέματα Διπλωματικών Εργασιών 2021-2022](thesestopics)
-# {{% /alert %}}
+<!--{{% alert note %}}
+[Θέματα Διπλωματικών Εργασιών 2021-2022](thesestopics)
+{{% /alert %}}-->
