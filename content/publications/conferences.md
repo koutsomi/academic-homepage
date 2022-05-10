@@ -8,7 +8,9 @@ weight = 50
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 +++
-- Dimitrios K. Charalampopoulos and ***Dimitrios A. Koutsomitropoulos***. A Web-based Recommendation Mechanism for Learning Objects Combining Ontologies and Zero-shot Learning. In *Proc. of the 15th International Conference on Metadata and Semantics Research (MTSR 2021)*. Springer, to appear. ([pdf](../pdf/mtsr2021.pdf))
+- Spiridon D. Kaftanis and ***Dimitrios A. Koutsomitropoulos***. Sentiment Text Analysis for Providing Individualized Feed of Recommendations Using Reinforcement Learning. In *Proc. of the 2022 IEEE International Joint Conference on Neural Networks (IJCNN 2022)*. IEEE, to appear. ([pdf](../pdf/ijcnn2022.pdf))
+
+- Dimitrios K. Charalampopoulos and ***Dimitrios A. Koutsomitropoulos***. A Web-based Recommendation Mechanism for Learning Objects Combining Ontologies and Zero-shot Learning. In *Proc. of the 15th International Conference on Metadata and Semantics Research (MTSR 2021)*, CCIS 1537, pp. 257-267. Springer, 2022. ([link](https://doi.org/10.1007/978-3-030-98876-0_23))([pdf](../pdf/mtsr2021.pdf))
 
 - ***Dimitrios A. Koutsomitropoulos***. Validating Ontology-based Annotations of Biomedical Resources using Zero-shot Learning. In *Proc. of the The 12th International Conference on Computational Systems-Biology and Bioinformatics (CSBio2021)*, pp. 37-43. ACM, 2021. ([link](https://dl.acm.org/doi/abs/10.1145/3486713.3486730))([pdf](../pdf/csbio2021.pdf))
 
