@@ -12,7 +12,7 @@ weight = 50
 
 - Dimitrios K. Charalampopoulos and ***Dimitrios A. Koutsomitropoulos***. A Web-based Recommendation Mechanism for Learning Objects Combining Ontologies and Zero-shot Learning. In *Proc. of the 15th International Conference on Metadata and Semantics Research (MTSR 2021)*, CCIS 1537, pp. 257-267. Springer, 2022. ([link](https://doi.org/10.1007/978-3-030-98876-0_23))([pdf](../pdf/mtsr2021.pdf))
 
-- ***Dimitrios A. Koutsomitropoulos***. Validating Ontology-based Annotations of Biomedical Resources using Zero-shot Learning. In *Proc. of the The 12th International Conference on Computational Systems-Biology and Bioinformatics (CSBio2021)*, pp. 37-43. ACM, 2021. ([link](https://dl.acm.org/doi/abs/10.1145/3486713.3486730))([pdf](../pdf/csbio2021.pdf))
+- ***Dimitrios A. Koutsomitropoulos***. Validating Ontology-based Annotations of Biomedical Resources using Zero-shot Learning. In *Proc. of the 12th International Conference on Computational Systems-Biology and Bioinformatics (CSBio2021)*, pp. 37-43. ACM, 2021. ([link](https://dl.acm.org/doi/abs/10.1145/3486713.3486730))([pdf](../pdf/csbio2021.pdf))
 
 - Xenofon Pournaras and ***Dimitrios A. Koutsomitropoulos***. Deep Learning on the Web: State-of-the-art Object Detection using Web-based Client-side Frameworks. In *Proc. of the 11th Int. Conference on Information, Intelligence, Systems and Applications (IISA)*, pp.1-8. IEEE, 2020. ([pdf](../pdf/iisa2020.pdf))
 
