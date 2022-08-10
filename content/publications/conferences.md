@@ -8,6 +8,8 @@ weight = 50
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 +++
+- Ioanna C. Gogou and ***Dimitrios A. Koutsomitropoulos***. A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic. In *Proc. of the 16th Int. Conference on Innovations in Intelligent Systems and Applications (INISTA 2022)*. IEEE, to appear. ([pdf](../pdf/inista2022.pdf))
+
 - Spiridon D. Kaftanis and ***Dimitrios A. Koutsomitropoulos***. Sentiment Text Analysis for Providing Individualized Feed of Recommendations Using Reinforcement Learning. In *Proc. of the 2022 IEEE International Joint Conference on Neural Networks (IJCNN 2022)*. IEEE, to appear. ([pdf](../pdf/ijcnn2022.pdf))
 
 - Dimitrios K. Charalampopoulos and ***Dimitrios A. Koutsomitropoulos***. A Web-based Recommendation Mechanism for Learning Objects Combining Ontologies and Zero-shot Learning. In *Proc. of the 15th International Conference on Metadata and Semantics Research (MTSR 2021)*, CCIS 1537, pp. 257-267. Springer, 2022. ([link](https://doi.org/10.1007/978-3-030-98876-0_23))([pdf](../pdf/mtsr2021.pdf))
