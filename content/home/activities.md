@@ -16,6 +16,6 @@ weight = 30
 
 <i class="fa fa-award" aria-hidden="true"></i> As of June 2022, our papers ["Thesaurus-based Word Embeddings for Automated Biomedical Literature Classification"](publications#journals) and ["Automated MeSH Indexing of Biomedical Literature Using Contextualized Word Representations"](publications#conferences) have been included in the [Nature Public Health Emergency Collection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7256379/), under an international [Public Health Emergency COVID-19 Initiative](https://www.ncbi.nlm.nih.gov/pmc/about/covid-19/). 
 
-<i class="fa fa-award" aria-hidden="true"></i> Our paper ["A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic"](publications#conferences) has received a [best paper award]() at INISTA 2022. 
+<i class="fa fa-award" aria-hidden="true"></i> Our paper ["A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic"](publications#conferences) has received a [best paper award](https://www.ceid.upatras.gr/el/announcement/best-paper-award-sto-16th-international-conference-innovations-intelligent-systems-and) at INISTA 2022. 
 
 <i class="ai ai-acm" aria-hidden="true"></i><i class="ai ai-ieee" aria-hidden="true"></i> I am a member of [ACM](https://www.acm.org), [IEEE](https://www.ieee.org) and the [IEEE Computer Society](https://www.computer.org). 
