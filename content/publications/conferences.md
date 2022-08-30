@@ -8,7 +8,7 @@ weight = 50
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 +++
-- Ioanna C. Gogou and ***Dimitrios A. Koutsomitropoulos***. A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic. In *Proc. of the 16th Int. Conference on Innovations in Intelligent Systems and Applications (INISTA 2022)*. IEEE, to appear. **([best paper award]([https://www.ceid.upatras.gr/el/ceid/awards/best-paper-award-sto-diethnes-synedrio-ieee-inista-2019](https://www.ceid.upatras.gr/el/announcement/best-paper-award-sto-16th-international-conference-innovations-intelligent-systems-and))** ([pdf](../pdf/inista2022.pdf))
+- Ioanna C. Gogou and ***Dimitrios A. Koutsomitropoulos***. A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic. In *Proc. of the 16th Int. Conference on Innovations in Intelligent Systems and Applications (INISTA 2022)*. IEEE, to appear. **([best paper award](https://www.ceid.upatras.gr/el/announcement/best-paper-award-sto-16th-international-conference-innovations-intelligent-systems-and))** ([pdf](../pdf/inista2022.pdf))
 
 - Spiridon D. Kaftanis and ***Dimitrios A. Koutsomitropoulos***. Sentiment Text Analysis for Providing Individualized Feed of Recommendations Using Reinforcement Learning. In *Proc. of the 2022 IEEE International Joint Conference on Neural Networks (IJCNN 2022)*. IEEE, to appear. ([pdf](../pdf/ijcnn2022.pdf))
 
