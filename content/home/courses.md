@@ -22,4 +22,6 @@ weight = 25
 
 :page_facing_up: Web Programming and Systems ([Προγραμματισμός και Συστήματα στον Παγκόσμιο Ιστό](https://eclass.upatras.gr/courses/CEID1092/))
 
+:page_facing_up: Applied Information Systems II ([Εφαρμοσμένα Πληροφοριακά Συστήματα ΙΙ](https://eclass.upatras.gr/courses/CEID1213/))
+
 :page_facing_up: Learning Algorithms, postgraduate ([Αλγόριθμοι Μάθησης](https://eclass.upatras.gr/courses/CEID1043/), ΠΜΣ ΕΤΥ)
