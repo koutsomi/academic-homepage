@@ -8,6 +8,8 @@ weight = 50
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 +++
+- Evdokia Xygi, Andreas D. Andriopoulos and ***Dimitrios A. Koutsomitropoulos***. AQuestion Answering Chatbots for Biomedical Research using Transformers. In *Proc. of the 5th Int. Conference on Artificial Intelligence in Information and Communication (ICAIIC 2023)*. IEEE, 2023. ([pdf](../pdf/icaiic2023.pdf))
+
 - Ioanna C. Gogou and ***Dimitrios A. Koutsomitropoulos***. A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic. In *Proc. of the 16th Int. Conference on Innovations in Intelligent Systems and Applications (INISTA 2022)*. IEEE, 2022. **([best paper award](https://www.ceid.upatras.gr/el/announcement/best-paper-award-sto-16th-international-conference-innovations-intelligent-systems-and))** ([link](https://ieeexplore.ieee.org/document/9894232)) ([pdf](../pdf/inista2022.pdf))
 
 - Spiridon D. Kaftanis and ***Dimitrios A. Koutsomitropoulos***. Sentiment Text Analysis for Providing Individualized Feed of Recommendations Using Reinforcement Learning. In *Proc. of the 2022 IEEE International Joint Conference on Neural Networks (IJCNN 2022)*. IEEE, 2022. ([link](https://ieeexplore.ieee.org/document/9892012)) ([pdf](../pdf/ijcnn2022.pdf))
