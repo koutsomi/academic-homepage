@@ -9,6 +9,8 @@ weight = 40
   columns = "2"
 
 +++
+- **Dimitrios A. Koutsomitropoulos** and Ioanna C. Gogou. Object Detection Models and Optimizations: A Bird’s-Eye View on Real-Time Medical Mask Detection. *Digital* 3 (3), pp. 172-188. MDPI, 2023. ([link](https://www.mdpi.com/2673-6470/3/3/12)) ([pdf](../pdf/digital2023.pdf))
+
 - **Dimitrios A. Koutsomitropoulos** and Andreas Andriopoulos. Thesaurus-based Word Embeddings for Automated Biomedical Literature Classification. *Neural Computing and Applications* 34 (2), pp. 937-950. Springer, 2022. ([link](https://link.springer.com/article/10.1007/s00521-021-06053-z)) ([pdf](../pdf/nca2021.pdf))
 
 - **Dimitrios A. Koutsomitropoulos**, Andreas Andriopoulos and Spiridon D. Likothanassis. Semantic Classification and Indexing of Open Educational Resources with Word Embeddings and Ontologies. *Cybernetics and Information Technologies* 20 (5), pp. 95-116. IICT, 2020. ([link](http://www.cit.iit.bas.bg/CIT-2020/CIT-20-5.html)) ([pdf](../pdf/cit2020.pdf))
