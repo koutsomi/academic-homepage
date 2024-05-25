@@ -24,7 +24,10 @@ subtitle = ""
   [[content.filter_button]]
      name = "All"
      tag = "*"
-  
+  [[content.filter_button]]
+     name = "AI and Deep Learning"
+     tag = "AI"
+   
    [[content.filter_button]]
      name = "Semantic Analytics"
      tag = "Semantic Analytics"
