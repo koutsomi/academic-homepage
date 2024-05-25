@@ -3,6 +3,8 @@
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["AI", "Deep Learning", "eHealth"]
 #title = "Repositories"
+date = "10 Jun 2019"
+weight = "2"
 # Project summary to display on homepage.
 summary = "[COMFORTAGE](https://www.comfortage.eu) - Prediction, Monitoring and Personalized Recommendations for Prevention and Relief of Dementia and Frailty (HORIZON-HLTH-2023-STAYHLTH-01). In the frame of this EU-funded project I am working on research and development of an AI algorithms library for dementia monitoring and prevention as well as novel XAI tools to support accuracy, transparency and personalization of clinical decisions. "
 
