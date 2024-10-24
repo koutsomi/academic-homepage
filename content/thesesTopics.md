@@ -13,7 +13,7 @@
     - Koutsomitropoulos, D. (2021). [Validating Ontology-based Annotations of Biomedical Resources using Zero-shot Learning](/pdf/csbio2021.pdf). In Proc. of the 12th International Conference on Computational Systems-Biology and Bioinformatics (CSBio 2021). 
     - Schmid, P. (2021) [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API.](https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api)
 
-
+ 
 2. **Σημασιολογική αντιστοίχιση δεδομένων μεγάλου όγκου σε γράφους γνώσης με χρήση διανυσμάτων λέξεων**
 
     Με την εξάπλωση του Παγκόσμιου Ιστού και την αύξηση του διαθέσιμου αποθηκευτικού χώρου υπάρχουν σήμερα διαθέσιμα μεγάλα σύνολα δεδομένων σε αδόμητη ή ημιδομημένη μορφή, όπως κείμενα και συμβολοσειρές σε μορφή πίνακα ή csv. Η εργασία αυτή θα μελετήσει την δυνατότητα αντιστοίχισης των πληροφοριών αυτών σε δομημένους γράφους γνώσης (knowledge graphs) με χρήση μηχανικής μάθησης και συγκεκριμένα διανυσμάτων λέξεων (word embeddings). Το πρόβλημα αυτό παραμένει ανοιχτό στην πράξη κυρίως λόγω ελλιπών ή αμφίσημων δεδομένων. Η κατανόηση της σημασιακής δομής των δεδομένων αυτών θα βοηθήσει περαιτέρω στη διαδικασία ανάλυσής τους (data analytics).
@@ -40,7 +40,7 @@
 	- K. Kerr (2023). [How to build a GPT-3 App with Nextjs, React, and GitHub Copilot](https://github.blog/developer-skills/github/how-to-build-a-gpt-3-app-with-nextjs-react-and-github-copilot/)
 	- Kojima, T., Gu, S. S., Reid, M., Matsuo, Y., & Iwasawa, Y. (2022). [Large language models are zero-shot reasoners. Advances in neural information processing systems (NeurIPS 2023), 35, 22199-22213.](https://proceedings.neurips.cc/paper_files/paper/2022/file/8bb0d291acd4acf06ef112099c16f326-Paper-Conference.pdf)
 
-   
+
 4. **Μελέτη και αξιολόγηση εργαλείων υποβοήθησης προγραμματισμού για ανάπτυξη εφαρμογών Ιστού με JavaScript.**
 
    Η πρόοδος στα τεχνητά νευρωνικά δίκτυα και τα μεγάλα γλωσσικά μοντέλα (LLMs) έχει οδηγήσει στην ανάπτυξη στοχευμένων εργαλείων που υποβοηθούν και επιταχύνουν τον προγραμματιστή στην ανάπτυξη εφαρμογών με γλώσσες προγραμματισμού. Σκοπός της εργασίας αυτής είναι να μελετήσει και να αξιολογήσει τα διαθέσιμα, βασισμένα σε ΤΝ εργαλεία υποβοήθησης και συμπλήρωσης κώδικα, στο πρόβλημα της ανάπτυξης εφαρμογών Ιστού και ιδιαίτερα αυτών που βασίζονται σε σύγχρονα JavaScript Frameworks. Τέτοια εργαλεία ενδεικτικά περιλαμβάνουν τα Copilot, codeium, double.bot, supermaven, continue.dev κ.α. Η εργασία θα συνεισφέρει και στον προσδιορισμό ενός πλαισίου αξιολόγησης τέτοιων εργαλείων με βάση τη βιβλιογραφία και κριτήρια όπως ταχύτητα, παραγωγικότητα, ποιότητα κώδικα/bugs/errors, ασφάλεια και ψυχομετρικά στοιχεία για συγκεκριμένες ομάδες, όπως τελειόφοιτοι του τμήματος (ευκολία, κατανόηση, συνέχεια, βελτίωση).
@@ -51,7 +51,6 @@
     - N. Sesti (2024). [A framework for evaluating AI code assistants.](https://blog.continue.dev/a-framework-for-evaluating-ai-code-assistants/)
     - J. Nygard (2024). [AI-assisted code generation tools.](https://oulurepo.oulu.fi/handle/10024/50546)
     - Fajkovic, E., & Rundberg, E. (2023). [The Impact of AI-generated Code on Web Development: A Comparative Study of ChatGPT and GitHub Copilot.](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1769082)
-
 
 
 5. **Χρήση τεχνικών ενσωμάτωσης στην ελληνική γλώσσα για συστήματα διαλόγου με βάση την ομιλία**  
