@@ -39,7 +39,7 @@
    
     - V. Srivastava (2023). [7 Large Language Model (LLM) APIs](https://nordicapis.com/7-large-language-model-llm-apis/)
     - K. Kerr (2023). [How to build a GPT-3 App with Nextjs, React, and GitHub Copilot](https://github.blog/developer-skills/github/how-to-build-a-gpt-3-app-with-nextjs-react-and-github-copilot/)
-    - Kojima, T., Gu, S. S., Reid, M., Matsuo, Y., & Iwasawa, Y. (2022). [Large language models are zero-shot reasoners. Advances in neural information processing systems (NeurIPS 2023), 35, 22199-22213.(https://proceedings.neurips.cc/paper_files/paper/2022/file/8bb0d291acd4acf06ef112099c16f326-Paper-Conference.pdf)
+    - Kojima, T., Gu, S. S., Reid, M., Matsuo, Y., & Iwasawa, Y. (2022). [Large language models are zero-shot reasoners. Advances in neural information processing systems (NeurIPS 2023), 35, 22199-22213.](https://proceedings.neurips.cc/paper_files/paper/2022/file/8bb0d291acd4acf06ef112099c16f326-Paper-Conference.pdf)
 
 
 4. **Μελέτη και αξιολόγηση εργαλείων υποβοήθησης προγραμματισμού για ανάπτυξη εφαρμογών Ιστού με JavaScript.**
