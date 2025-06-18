@@ -8,7 +8,7 @@ weight = 50
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 +++
-- Dionisios Kapelles, Andreas D. Andriopoulos and ***Dimitrios A. Koutsomitropoulos***. Finetuning LLMs for Grammatical Error Correction in English and Greek Texts. In Proc. of the 18th Int. Conference on PErvasive Technologies Related to Assistive Environments (PETRA ’25). ACM, to appear. ([pdf](../pdf/petra2025.pdf))
+- Dionisios Kapelles, Andreas D. Andriopoulos and ***Dimitrios A. Koutsomitropoulos***. Finetuning LLMs for Grammatical Error Correction in English and Greek Texts. In *Proc. of the 18th Int. Conference on PErvasive Technologies Related to Assistive Environments (PETRA ’25)*. ACM, to appear. ([pdf](../pdf/petra2025.pdf))
 
 - Panagiotis G. Syriopoulos, Andreas D. Andriopoulos and ***Dimitrios A. Koutsomitropoulos***. Evaluation of Language Models for Multilabel Classification of Biomedical Texts. In *Proc. of the 20th Int. Conference on Artificial Intelligence Applications and Innovations (AIAI), IFIP AICT vol. 711,* pp.68-78. Springer, 2024.  ([pdf](../pdf/aiai2024.pdf)). 
   
