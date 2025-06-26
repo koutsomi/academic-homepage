@@ -9,6 +9,8 @@ weight = 60
   columns = "2"
 +++
 
+- Dimitrios Tsolis, Spiridon Likothanassis, **Dimitrios A. Koutsomitropoulos**, Anastasios Giannaros, Dimitrios Tsoukalos, Kalliopi Klelia Lykothanasi. Explainable Artificial Intelligence (XAI) for Responsible Care of Dementia and Frailty. COMFORTage blog, 2025. [(online)](https://comfortage.eu/explainable-artificial-intelligence-xai/)
+
 - **Dimitrios A. Koutsomitropoulos**. Semantics in the Deep - Semantic Analytics for Big Data: Introduction and Overview. *14th International Conference on Artificial Intelligence Applications and Innovations (AIAI 2018) – Int. Workshop on Semantic Analytics for Big Data (SEDSEAL)*, 2018. [(pdf)](../pdf/sedseal2018-intro.pdf)
 
 - **Dimitrios A. Koutsomitropoulos**. Semantic Web and Reasoning for Cultural Heritage and Digital Libraries: An Overview. *4th IEEE Int. Conference on Semantic Computing (ICSC 2010) – IEEE Int. Workshop SWARCH-DL*, 2010 [(pdf)](../pdf/swarch-dl10.pdf)
