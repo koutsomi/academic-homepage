@@ -8,6 +8,10 @@ weight = 50
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 +++
+- **Dimitrios A. Koutsomitropoulos** and Savvas Skoulidis. Small Language Models are Diligent Learners: Evaluation of Embedding- and Transformer-based Language Models for Text Classification and Recommendation. In *Proc. of the 19th  International Conference on INnovations in Intelligent SysTems and Applications (INISTA 2025)*. IEEE, to appear.
+
+- Nikolaos Avrantinis, Andreas D. Andriopoulos and **Dimitrios A. Koutsomitropoulos**. How Deep Is Your Chit-Chat? A Teacher-Oriented Evaluation of Deep Learning Models for Open-Domain Conversation. In *Proc. of the 19th  International Conference on INnovations in Intelligent SysTems and Applications (INISTA 2025)*. IEEE, to appear.
+
 - Dionisios Kapelles, Andreas D. Andriopoulos and ***Dimitrios A. Koutsomitropoulos***. Finetuning LLMs for Grammatical Error Correction in English and Greek Texts. In *Proc. of the 18th Int. Conference on PErvasive Technologies Related to Assistive Environments (PETRA ’25)*, pp. 292–297. ACM, 2025. ([pdf](../pdf/petra2025.pdf))
 
 - Panagiotis G. Syriopoulos, Andreas D. Andriopoulos and ***Dimitrios A. Koutsomitropoulos***. Evaluation of Language Models for Multilabel Classification of Biomedical Texts. In *Proc. of the 20th Int. Conference on Artificial Intelligence Applications and Innovations (AIAI), IFIP AICT vol. 711,* pp.68-78. Springer, 2024.  ([pdf](../pdf/aiai2024.pdf)). 
