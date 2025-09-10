@@ -8,6 +8,8 @@ weight = 50
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 +++
+- **Dimitrios A. Koutsomitropoulos** and Dimitrios Vlachogiannis. Hands-on Evaluation of Visual Transformers for Object Recognition and Detection. In *Proc. of the 37th IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2025)*. IEEE, to appear.
+
 - **Dimitrios A. Koutsomitropoulos** and Savvas Skoulidis. Small Language Models are Diligent Learners: Evaluation of Embedding- and Transformer-based Language Models for Text Classification and Recommendation. In *Proc. of the 19th  International Conference on INnovations in Intelligent SysTems and Applications (INISTA 2025)*. IEEE, to appear.
 
 - Nikolaos Avrantinis, Andreas D. Andriopoulos and **Dimitrios A. Koutsomitropoulos**. How Deep Is Your Chit-Chat? A Teacher-Oriented Evaluation of Deep Learning Models for Open-Domain Conversation. In *Proc. of the 19th  International Conference on INnovations in Intelligent SysTems and Applications (INISTA 2025)*. IEEE, to appear.
