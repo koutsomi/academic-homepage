@@ -9,7 +9,7 @@ weight = 40
   columns = "2"
 
 +++
-- G. Manias, S. Likothanassis, E. Alexakis, A. Antoniades, C. Marra, G. M. Giuffrè, E. Charalambous, D. Tsolis, G. Tsirogiannis, **Dimitrios Koutsomitropoulos** et al. Establishing a Digitally-Enabled Framework for Enhanced Prevention, Risk Identification and Relief for Dementia and Frailty. *Journal of Dementia and Alzheimer's Disease* 2(3), 30. MDPI, in 2025. ([link](https://doi.org/10.3390/jdad2030030)) ([pdf](../pdf/jdad25.pdf))
+- G. Manias, S. Likothanassis, E. Alexakis, A. Antoniades, C. Marra, G. M. Giuffrè, E. Charalambous, D. Tsolis, G. Tsirogiannis, **Dimitrios Koutsomitropoulos** et al. Establishing a Digitally-Enabled Framework for Enhanced Prevention, Risk Identification and Relief for Dementia and Frailty. *Journal of Dementia and Alzheimer's Disease* 2(3), 30. MDPI, 2025. ([link](https://doi.org/10.3390/jdad2030030)) ([pdf](../pdf/jdad25.pdf))
 
 - **Dimitrios A. Koutsomitropoulos** and Ioanna C. Gogou. Object Detection Models and Optimizations: A Bird’s-Eye View on Real-Time Medical Mask Detection. *Digital* 3 (3), pp. 172-188. MDPI, 2023. ([link](https://www.mdpi.com/2673-6470/3/3/12)) ([pdf](../pdf/digital2023.pdf))
 
