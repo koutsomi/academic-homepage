@@ -8,11 +8,11 @@ weight = 50
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 +++
-- **Dimitrios A. Koutsomitropoulos** and Dimitrios Vlachogiannis. Hands-on Evaluation of Visual Transformers for Object Recognition and Detection. In *Proc. of the 37th IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2025)*. IEEE, to appear.
+- **Dimitrios A. Koutsomitropoulos** and Dimitrios Vlachogiannis. Hands-on Evaluation of Visual Transformers for Object Recognition and Detection. In *Proc. of the 37th IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2025)*, pp. 857-864, doi: 10.1109/ICTAI66417.2025.00125. IEEE, 2025. ([pdf](../pdf/ictai2025.pdf))
 
-- **Dimitrios A. Koutsomitropoulos** and Savvas Skoulidis. Small Language Models are Diligent Learners: Evaluation of Embedding- and Transformer-based Language Models for Text Classification and Recommendation. In *Proc. of the 19th  International Conference on INnovations in Intelligent SysTems and Applications (INISTA 2025)*. IEEE, to appear.
+- **Dimitrios A. Koutsomitropoulos** and Savvas Skoulidis. Small Language Models are Diligent Learners: Evaluation of Embedding- and Transformer-based Language Models for Text Classification and Recommendation. In *Proc. of the 19th  International Conference on INnovations in Intelligent SysTems and Applications (INISTA 2025)*, pp. 1-5, doi: 10.1109/INISTA68122.2025.11249552. IEEE, 2025. ([pdf](../pdf/inista2025b.pdf))
 
-- Nikolaos Avrantinis, Andreas D. Andriopoulos and **Dimitrios A. Koutsomitropoulos**. How Deep Is Your Chit-Chat? A Teacher-Oriented Evaluation of Deep Learning Models for Open-Domain Conversation. In *Proc. of the 19th  International Conference on INnovations in Intelligent SysTems and Applications (INISTA 2025)*. IEEE, to appear.
+- Nikolaos Avrantinis, Andreas D. Andriopoulos and **Dimitrios A. Koutsomitropoulos**. How Deep Is Your Chit-Chat? A Teacher-Oriented Evaluation of Deep Learning Models for Open-Domain Conversation. In *Proc. of the 19th  International Conference on INnovations in Intelligent SysTems and Applications (INISTA 2025)*, pp. 1-6, doi: 10.1109/INISTA68122.2025. 11249589. IEEE, 2025. ([pdf](../pdf/inista2025a.pdf))
 
 - Dionisios Kapelles, Andreas D. Andriopoulos and ***Dimitrios A. Koutsomitropoulos***. Finetuning LLMs for Grammatical Error Correction in English and Greek Texts. In *Proc. of the 18th Int. Conference on PErvasive Technologies Related to Assistive Environments (PETRA ’25)*, pp. 292–297. ACM, 2025. ([pdf](../pdf/petra2025.pdf))
 
